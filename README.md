@@ -8,7 +8,7 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 - I'm looking to collaborate on my primary Discord bot, [bort](https://github.com/MatievisTheKat/bort)
 - You can reach me via Discord (MatievisTheKat#4975) or Email (matthew.stead@matievisthekat.dev)
 
-[![MatievisTheKat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatievisTheKat&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MatievisTheKat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatievisTheKat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=bort)](https://github.com/MatievisTheKat/bort)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=Cubeathon)](https://github.com/MatievisTheKat/Cubeathon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=bort&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MatievisTheKat/bort)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=Cubeathon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/MatievisTheKat/Cubeathon)
