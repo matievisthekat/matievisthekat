@@ -9,3 +9,6 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 - You can reach me via Discord (MatievisTheKat#4975) or Email (matthew.stead@matievisthekat.dev)
 
 [![MatievisTheKat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatievisTheKat&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=bort)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=Cubeathon)](https://github.com/anuraghazra/github-readme-stats)
