@@ -15,3 +15,4 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 [![ScoutBadgesAPI](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=ScoutBadgesAPI)](https://github.com/MatievisTheKat/ScoutBadgesAPI)
 [![ProjectBoost](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=ProjectBoost)](https://github.com/MatievisTheKat/ProjectBoost)
 [![CitywideBump](https://github-readme-stats.vercel.app/api/pin/?username=AdvertiseYourBot&repo=citywide-bump)](https://github.com/AdvertiseYourBot/citywide-bump)
+[![AybApi](https://github-readme-stats.vercel.app/api/pin/?username=AdvertiseYourBot&repo=ayb-api)](https://github.com/AdvertiseYourBot/ayb-api)
