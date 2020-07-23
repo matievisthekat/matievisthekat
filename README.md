@@ -10,7 +10,7 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 
 [![MatievisTheKat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatievisTheKat&theme=dark)](https://github.com/MatievisTheKat)
 
-[![VirtualFriend](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=VirtualFriend&show_icons=true&theme=dark)](https://github.com/MatievisTheKat/VirtualFriend)
+[![MyOnlyFriend](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=MyOnlyFriend&show_icons=true&theme=dark)](https://github.com/MatievisTheKat/MyOnlyFriend)
 [![ScoutBadgesAPI](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=ScoutBadgesAPI&theme=dark)](https://github.com/MatievisTheKat/ScoutBadgesAPI)
 [![Cubeathon](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=Cubeathon&theme=dark)](https://github.com/MatievisTheKat/Cubeathon)
 [![ProjectBoost](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=ProjectBoost&theme=dark)](https://github.com/MatievisTheKat/ProjectBoost)
