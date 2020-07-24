@@ -9,7 +9,6 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 - You can reach me via Discord (MatievisTheKat#4975) or Email (matthew.stead@matievisthekat.dev)
 
 [![MatievisTheKat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatievisTheKat&theme=dark)](https://github.com/MatievisTheKat)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatievisTheKat&theme=dark)](https://github.com/MatievisTheKat?tab=repositories)
 
 [![MyOnlyFriend](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=MyOnlyFriend&show_icons=true&theme=dark)](https://github.com/MatievisTheKat/MyOnlyFriend)
 [![ScoutBadgesAPI](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=ScoutBadgesAPI&theme=dark)](https://github.com/MatievisTheKat/ScoutBadgesAPI)
@@ -17,3 +16,5 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 [![ProjectBoost](https://github-readme-stats.vercel.app/api/pin/?username=MatievisTheKat&repo=ProjectBoost&theme=dark)](https://github.com/MatievisTheKat/ProjectBoost)
 [![CitywideBump](https://github-readme-stats.vercel.app/api/pin/?username=AdvertiseYourBot&repo=citywide-bump&theme=dark)](https://github.com/AdvertiseYourBot/citywide-bump)
 [![AybApi](https://github-readme-stats.vercel.app/api/pin/?username=AdvertiseYourBot&repo=ayb-api&theme=dark)](https://github.com/AdvertiseYourBot/ayb-api)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatievisTheKat&theme=dark)](https://github.com/MatievisTheKat?tab=repositories)
