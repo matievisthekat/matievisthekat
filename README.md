@@ -9,3 +9,5 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 - I'm currently learning more Java and Typescript
 - I'm looking to collaborate on anything and everything! Hmu if you wanna collab
 - You can reach me via Discord (MatievisTheKat#4975) or Email (matthew.stead@matievisthekat.dev)
+
+[![Years Badge](https://badges.pufler.dev/years/MatievisTheKat)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/MatievisTheKat)](https://badges.pufler.dev)
