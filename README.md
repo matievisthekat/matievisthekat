@@ -23,7 +23,7 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
   <img src="https://matievisthekat.github.io/MatievisTheKat/html5-original.svg" width="50px" alt="Some badge" />
   <img src="https://matievisthekat.github.io/MatievisTheKat/java-original.svg" width="50px" alt="Some badge" />
   <img src="https://matievisthekat.github.io/MatievisTheKat/javascript-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/query-original.svg" width="50px" alt="Some badge" />
+  <img src="https://matievisthekat.github.io/MatievisTheKat/jquery-original.svg" width="50px" alt="Some badge" />
   <img src="https://matievisthekat.github.io/MatievisTheKat/mongodb-original.svg" width="50px" alt="Some badge" />
   <img src="https://matievisthekat.github.io/MatievisTheKat/mysql-original.svg" width="50px" alt="Some badge" />
   <img src="https://matievisthekat.github.io/MatievisTheKat/nginx-original.svg" width="50px" alt="Some badge" />
