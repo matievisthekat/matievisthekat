@@ -3,10 +3,8 @@
 My name is Matthew Stead and I am a _average_ programmer. I code primarily in Node.JS, Typescript, PHP, HTML/CSS but I do know the basics of Python, Java and C#. I occasionally create simple games using the Unity Engine.
 
 <p align="center">
-  <img src="https://badges.pufler.dev/repos/MatievisTheKat" alt="Amount of repos" />
-  <img src="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile view count" />
-  <img src="https://badges.pufler.dev/years/MatievisTheKat" alt="Account age" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MatievisTheKat&theme=dark" alt="GitHub stats" />
+  <img src="https://badges.pufler.dev/repos/MatievisTheKat" alt="Amount of repos" /><img src="https://komarev.com/ghpvc/?username=MatievisTheKat" alt="Profile view count" /> <img src="https://badges.pufler.dev/years/MatievisTheKat" alt="Account age" /> <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=MatievisTheKat&theme=dark" alt="GitHub stats" />
 </p>
 
 ### About
