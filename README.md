@@ -4,9 +4,9 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 
 [![Repos Badge](https://badges.pufler.dev/repos/MatievisTheKat)](https://badges.pufler.dev) [![Profile Views](https://komarev.com/ghpvc/?username=MatievisTheKat)](https://github.com/antonkomarev/github-profile-views-counter) [![Years Badge](https://badges.pufler.dev/years/MatievisTheKat)](https://badges.pufler.dev)
 
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatievisTheKat&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatievisTheKat&theme=dark" alt="GitHub stats"/>
+</p>
 
 ### About
 - I'm currently working on my portfolio website, a couple [Discord](https://discord.com) bots, a game for my friend, an API for [Advertise Your Bot](https://ayblisting.com) and a bunch of side projects such as [MyOnlyFriend](https://github.com/MatievisTheKat/VirtualFriend)
