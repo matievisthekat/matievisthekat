@@ -10,6 +10,7 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MatievisTheKat" alt="Profile view count" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=MatievisTheKat&theme=dark" alt="GitHub stats" />
 </p>
 
