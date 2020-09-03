@@ -11,7 +11,7 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MatievisTheKat" alt="Profile view count" />
   <br />
-  <img src="https://raw.githubusercontent.com/MatievisTheKat/MatievisTheKat/master/profile-summary-card-output/monokai/1-repos-per-language.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/MatievisTheKat/MatievisTheKat/master/profile-summary-card-output/monokai/0-profile-details.svg" alt="GitHub stats" />
   <img src="https://raw.githubusercontent.com/MatievisTheKat/MatievisTheKat/master/profile-summary-card-output/monokai/1-repos-per-language.svg" alt="GitHub repos per lagnuage" />
   <img src="https://raw.githubusercontent.com/MatievisTheKat/MatievisTheKat/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt="GitHub mnost commit lagnuage" />
 </p>
