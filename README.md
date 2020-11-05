@@ -5,7 +5,7 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 ### About
 - I'm currently working on my portfolio website, a couple [Discord](https://discord.com) bots, and a bunch of side projects such as [MyOnlyFriend](https://github.com/MatievisTheKat/MyOnlyFriend)
 - I'm currently learning more Java and Typescript
-- I'm looking to collaborate on anything and everything! Hmu if you wanna collab
+- I'm looking to collaborate on anything and everything!
 - You can reach me via Discord (MatievisTheKat#4975) or Email (matthew.stead@matievisthekat.dev)
 
 <p align="center">
