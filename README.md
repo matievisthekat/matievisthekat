@@ -11,7 +11,7 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MatievisTheKat" alt="Profile view count" />
   <br />
-  ![GitHub metrics](https://github.com/MatievisTheKat/MatievisTheKat/blob/master/github-metrics.svg)
+  <img src="https://github.com/MatievisTheKat/MatievisTheKat/blob/master/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
