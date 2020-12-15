@@ -8,14 +8,10 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
 - I'm looking to collaborate on anything and everything!
 - You can reach me via Discord (MatievisTheKat#4975) or Email (matthew.stead@matievisthekat.dev)
 
-![GitHub metrics](https://github.com/MatievisTheKat/MatievisTheKat/blob/master/github-metrics.svg)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MatievisTheKat" alt="Profile view count" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=MatievisTheKat&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://raw.githubusercontent.com/MatievisTheKat/MatievisTheKat/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt="GitHub mnost commit lagnuage" />
+  ![GitHub metrics](https://github.com/MatievisTheKat/MatievisTheKat/blob/master/github-metrics.svg)
 </p>
 
 <p align="center">
