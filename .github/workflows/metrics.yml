@@ -28,8 +28,8 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_limit: 15
           plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_from: 100
-          #plugin_pagespeed: yes
-          #plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          #plugin_pagespeed_detailed: yes
+          #plugin_habits: yes
+          #plugin_habits_from: 100
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_detailed: yes
