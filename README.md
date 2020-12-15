@@ -13,26 +13,3 @@ My name is Matthew Stead and I am a _average_ programmer. I code primarily in No
   <br />
   <img src="https://github.com/MatievisTheKat/MatievisTheKat/blob/master/github-metrics.svg" alt="GitHub metrics" />
 </p>
-
-<p align="center">
-  <img src="https://matievisthekat.github.io/MatievisTheKat/bootstrap-plain.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/csharp-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/electron-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/git-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/github-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/go-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/html5-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/java-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/javascript-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/jquery-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/mongodb-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/mysql-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/nginx-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/nodejs-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/npm-original-wordmark.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/php-plain.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/postgresql-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/python-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/react-original.svg" width="50px" alt="Some badge" />
-  <img src="https://matievisthekat.github.io/MatievisTheKat/typescript-original.svg" width="50px" alt="Some badge" />
-</p>
