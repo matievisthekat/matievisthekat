@@ -15,6 +15,8 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Johannesburg
+          plugin_traffic: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_music: yes
@@ -26,6 +28,20 @@ jobs:
           plugin_followup: yes
           plugin_lines: yes
           plugin_habits: yes
-          plugin_habits_from: 100
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: new.matievisthekat.dev
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, projects-graphs
+          plugin_wakatime_limit: 4
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
