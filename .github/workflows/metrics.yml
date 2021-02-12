@@ -30,7 +30,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 30
-          #plugin_habits_facts: yes
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: no
@@ -41,7 +41,7 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, projects, projects-graphs
           plugin_wakatime_limit: 4
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          #plugin_activity: yes
+          #plugin_activity_limit: 5
+          #plugin_activity_days: 14
+          #plugin_activity_filter: all
