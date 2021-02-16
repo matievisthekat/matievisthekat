@@ -1119,8 +1119,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="276.36 329"/>
-                  <text x="60" y="60" dominant-baseline="central">84</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="259.91 329"/>
+                  <text x="60" y="60" dominant-baseline="central">79</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1184,7 +1184,7 @@
               <li>Mostly push code around 17:00</li>
             
             
-              <li>Mostly active on sunday</li>
+              <li>Mostly active on monday</li>
             
           </ul>
         
@@ -1319,8 +1319,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               20
             </div>
           
@@ -1353,8 +1353,8 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">26</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">24</span>
+                <div class="bar" style="height: 46.15384615384615px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
             
@@ -2504,7 +2504,7 @@
           
             <span>These metrics include private contributions, timezone Africa/Johannesburg</span>
           
-          <span>Last updated Tue, 16 Feb 2021 18:16:47 GMT with lowlighter/metrics@3.4.0-beta</span>
+          <span>Last updated Tue, 16 Feb 2021 19:12:58 GMT with lowlighter/metrics@3.4.0-beta</span>
         </footer>
       
       <div id="metrics-end"></div>
