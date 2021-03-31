@@ -1376,9 +1376,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="299.39 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    96
+                                    91
                                 </text>
                             </svg>
                             <span class="title">
@@ -1574,10 +1574,8 @@
                         20
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            9
-                        </span>
-                        <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         21
                     </div>
                     <div class="entry">
@@ -1604,10 +1602,8 @@
                             Sun
                         </div>
                         <div class="entry">
-                            <span class="value">
-                                9
-                            </span>
-                            <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -2772,7 +2768,7 @@
                     These metrics include private contributions, timezone Africa/Johannesburg
                 </span>
                 <span>
-                    Last updated Wed, 31 Mar 2021 19:08:12 GMT with lowlighter/metrics@3.6.0-beta
+                    Last updated Wed, 31 Mar 2021 20:04:32 GMT with lowlighter/metrics@3.6.0-beta
                 </span>
             </footer>
             <div id="metrics-end"></div>
