@@ -2639,13 +2639,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">trex-app</span>
-                                <div class="bar" style="width: 75.088%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">94%</span>
+                                <div class="bar" style="width: 73.872%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">92%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">play-folder-app</span>
-                                <div class="bar" style="width: 4.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">test</span>
+                                <div class="bar" style="width: 1.2960000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -2653,7 +2658,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Africa/Johannesburg</span>
-                <span>Last updated Tue, 18 May 2021 00:17:04 with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Tue, 18 May 2021 01:15:55 with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
