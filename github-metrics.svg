@@ -2714,13 +2714,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">trex-app</span>
-                                <div class="bar" style="width: 78.624%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">98%</span>
+                                <div class="bar" style="width: 73.896%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">92%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">test</span>
-                                <div class="bar" style="width: 1.376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 5.920000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">ethermine</span>
+                                <div class="bar" style="width: 0.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -2728,7 +2733,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Africa/Johannesburg</span>
-                <span>Last updated Fri, 21 May 2021 00:16:26 with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Fri, 21 May 2021 01:14:26 with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
