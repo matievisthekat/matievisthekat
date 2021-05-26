@@ -190,6 +190,9 @@
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
   }
+  .field.language.details small &gt; *:not(:last-child) {
+    margin-right: 6px;
+  }
 
 /* Follow-up */
   .followup.legend {
@@ -2728,7 +2731,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Africa/Johannesburg</span>
-                <span>Last updated Wed, 26 May 2021 22:29:13 with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Wed, 26 May 2021 23:19:20 with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
