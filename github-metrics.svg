@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1414" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1431" class="">
     <defs>
         <style/>
     </defs>
@@ -1479,6 +1479,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Use spaces for indents</li>
+                        <li>Approximately 67.3 characters per line of code written</li>
                         <li>Mostly push code around 11:00</li>
                         <li>Mostly active on tuesday</li>
                     </ul>
@@ -2736,7 +2737,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone Africa/Johannesburg</span>
-                <span>Last updated Thu, 27 May 2021 23:19:01 with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Fri, 28 May 2021 00:21:58 with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
