@@ -32,10 +32,10 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: no
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: new.matievisthekat.dev
+          #plugin_pagespeed: yes
+          #plugin_pagespeed_detailed: no
+          #plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          #plugin_pagespeed_url: new.matievisthekat.dev
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
