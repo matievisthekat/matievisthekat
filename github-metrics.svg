@@ -1635,12 +1635,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Svelte</span>
-                            <div class="bar" style="width: 71.66580711707066%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 71.67224942025251%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">90%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 8.334192882929345%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 8.327750579747487%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">10%</span>
                         </div>
                     </div>
@@ -2706,7 +2706,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sun, 06 Jun 2021 05:06:29 (timezone Africa/Johannesburg) with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Sun, 06 Jun 2021 06:43:27 (timezone Africa/Johannesburg) with lowlighter/metrics@3.11.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
