@@ -1672,22 +1672,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 70.18303320618587%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">88%</span>
+                            <div class="bar" style="width: 69.56824805456239%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">87%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Svelte</span>
-                            <div class="bar" style="width: 8.22496229929921%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 8.362226962713699%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">10%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.9556758035423873%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="name">Sass</span>
+                            <div class="bar" style="width: 1.0984586725956194%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Sass</span>
-                            <div class="bar" style="width: 0.6363286909725302%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 0.9710663101282937%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -2763,7 +2763,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/06/2021, 02:53 (timezone Africa/Johannesburg) with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 24/06/2021, 03:51 (timezone Africa/Johannesburg) with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
