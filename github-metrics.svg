@@ -1749,37 +1749,37 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 72.73957045150544%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">91%</span>
+                            <div class="bar" style="width: 71.09320295320812%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">89%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.7115564192514445%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.7173445696104563%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">CSS</span>
+                            <div class="bar" style="width: 2.4824637912607646%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Sass</span>
-                            <div class="bar" style="width: 1.7575650506019231%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.7109934523297667%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 1.2931882997249073%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.2589216613638319%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.7409837720515862%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
-                        </div>
-                        <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.6046992908159402%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.5886760930186848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Motorola 68K Assembly</span>
-                            <div class="bar" style="width: 0.15243671604875955%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.14839747920838298%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2865,7 +2865,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/09/2021, 03:53 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 02/09/2021, 04:22 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
