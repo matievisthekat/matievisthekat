@@ -1789,42 +1789,42 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 39.65061625235012%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 39.640340853439554%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">50%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 35.64758721537497%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 35.656665251885464%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">45%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 1.4440150407353247%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.44438277449476%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 1.3191978274493419%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.3195337751803846%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Sass</span>
-                            <div class="bar" style="width: 0.8778984750365573%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.8781220412027817%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.6689993733026949%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.6691697410950406%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.3128264048464591%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.3129060694113422%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Assembly</span>
-                            <div class="bar" style="width: 0.0788594109045331%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.07887949329067223%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2855,6 +2855,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2891,7 +2896,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15/09/2021, 01:12 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 15/09/2021, 02:40 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
