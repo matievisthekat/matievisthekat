@@ -52,9 +52,6 @@ jobs:
           
           plugin_lines: yes
           
-          plugin_introduction: yes
-          plugin_introduction_title: no
-          
           plugin_contributors: yes
           plugin_contributors_ignored: bot
           plugin_contributors_categories: |
