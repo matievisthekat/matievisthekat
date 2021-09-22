@@ -36,6 +36,11 @@ jobs:
           plugin_languages_ignored: tsx
           plugin_languages_limit: 8
           
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 3
+          plugin_stackoverflow_lines: 4
+          
           plugin_followup: yes
           plugin_followup_sections: user
           
