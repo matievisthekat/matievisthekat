@@ -33,7 +33,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_categories: programming
-          plugin_languages_ignore: TSX
+          plugin_languages_ignored: tsx
+          plugin_languages_limit: 8
           
           plugin_followup: yes
           plugin_followup_sections: user
