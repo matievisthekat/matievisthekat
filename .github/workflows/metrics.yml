@@ -29,7 +29,6 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_threshold: 2%
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_categories: programming
@@ -39,7 +38,7 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 12493413
           plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 3
+          plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
           
           plugin_followup: yes
@@ -54,6 +53,9 @@ jobs:
           
           plugin_contributors: yes
           plugin_contributors_ignored: bot
+          plugin_contributors_sections: contributors
+          plugin_contributors_head: master
+          lugin_contributors_base: ""
           plugin_contributors_categories: |
             {
               "Documentation": ["README.md", "docs/**"],
