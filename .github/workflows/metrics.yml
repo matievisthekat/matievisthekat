@@ -37,6 +37,7 @@ jobs:
           plugin_languages_limit: 8
           
           plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 12493413
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 3
           plugin_stackoverflow_lines: 4
