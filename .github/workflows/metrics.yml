@@ -31,9 +31,11 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
-          #plugin_languages_categories: programming
           plugin_languages_ignored: tsx
           plugin_languages_limit: 8
+          plugin_languages_recent_load: 500
+          plugin_languages_recent_days: 7
+          commits_authoring: matievisthekat@users.noreply.github.com
           
           #plugin_stackoverflow: yes
           #plugin_stackoverflow_user: 12493413
