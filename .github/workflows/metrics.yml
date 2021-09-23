@@ -29,9 +29,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_categories: programming
+          #plugin_languages_categories: programming
           plugin_languages_ignored: tsx
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
           
           #plugin_stackoverflow: yes
           #plugin_stackoverflow_user: 12493413
