@@ -35,7 +35,6 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: tsx
           plugin_languages_limit: 8
-          commits_authoring: matievisthekat@users.noreply.github.com
           
           #plugin_stackoverflow: yes
           #plugin_stackoverflow_user: 12493413
