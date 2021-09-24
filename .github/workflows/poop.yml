@@ -1,0 +1,23 @@
+name: PoopMap
+on:
+  # Schedule updates (each hour)
+  schedule: 
+    - cron: "0 * * * *"
+  push: 
+    branches: 
+      - master
+      - main
+jobs:
+  poopmap-bio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: matievisthekat/poopmap-bio@latest
+        with:
+          # Your GitHub token (MUST INCLUDE 'user' SCOPE)
+          personal_access_token: ${{ secrets.POOP_TOKEN }}
+          
+          # Your PoopMap username
+          username: matievisthekat
+          
+          # Your PoopMap password
+          password: ${{ secrets.POOP_PASSWORD }}
