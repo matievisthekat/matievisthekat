@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -35,6 +35,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: tsx
           plugin_languages_limit: 8
+          commits_authoring: matievisthekat@gmail.com
           
           #plugin_stackoverflow: yes
           #plugin_stackoverflow_user: 12493413
