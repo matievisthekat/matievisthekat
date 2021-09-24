@@ -8,3 +8,4 @@
   - I'm currently studying for my IGCSE exams (grade 10)
   - I speak Afrikaans and a bit of Swedish
   - I plan on studying Psychology at the University of Stellenbosch
+  - I code to distract myself from problems
