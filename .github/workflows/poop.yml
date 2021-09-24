@@ -10,7 +10,7 @@ jobs:
   poopmap-bio:
     runs-on: ubuntu-latest
     steps:
-      - uses: matievisthekat/poopmap-bio@v1.0.0
+      - uses: matievisthekat/poopmap-bio@master
         with:
           # Your GitHub token (MUST INCLUDE 'user' SCOPE)
           personal_access_token: ${{ secrets.POOP_TOKEN }}
