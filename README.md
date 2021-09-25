@@ -1,45 +1,17 @@
+
+test
+
+
+
+<!--SECTION:movies-->
 <p align="center">
-  <a href="https://github.com/lowlighter/metrics" target="_blank">
-    <img src="https://github.com/MatievisTheKat/MatievisTheKat/blob/master/github-metrics.svg" alt="GitHub metrics from lowlighter/metrics" />
-  </a>
+  <div style="width:50%;float:left;">
+    <a href="https://imdb.com/title/tt7557108/?ref_=ttls_li_i">
+      <img src="https://m.media-amazon.com/images/M/MV5BYzE3ZDg0OTktYjlhNC00ZmQ0LTk0YjktMDE1ZWE2YjIwMjk4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY209_CR0,0,140,209_AL_.jpg" width="100px" />
+      Saint Maud
+    </a>
+  </div>
+
+  <div style="width:50%;float:right;">
+  </div>
 </p>
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-243-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Johannesburg
-
-💬 Programming Languages: 
-JavaScript               1 hr 21 mins        ███████████░░░░░░░░░░░░░░   46.58% 
-TypeScript               55 mins             ████████░░░░░░░░░░░░░░░░░   31.58% 
-YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
-
-🔥 Editors: 
-VS Code                  2 hrs 54 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    2 hrs 54 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               10 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
-JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-C#                       4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
-
- Last Updated on 25/09/2021
-<!--END_SECTION:waka-->
-
-###### Other things about me:
-  - I'm currently studying for my IGCSE exams (grade 10)
-  - I speak Afrikaans and a bit of Swedish
