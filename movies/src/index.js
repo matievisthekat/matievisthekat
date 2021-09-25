@@ -49,7 +49,7 @@ fetchFavourite().then((favourite) => {
       path: "README.md",
     });
 
-    const test = await kit.repos.createOrUpdateFileContents({
+    await kit.repos.createOrUpdateFileContents({
       owner: "matievisthekat",
       repo: "matievisthekat",
       path: "README.md",
@@ -64,30 +64,13 @@ fetchFavourite().then((favourite) => {
 ${Buffer.from(readme.data.content, "base64").toString().split("<!--SECTION:movies-->")[0]}
 
 <!--SECTION:movies-->
-<p align="center">
-  <div style="width:50%;float:left;">
-    <a href="${favourite.link}">
-      <img src="${favourite.img}" width="100px" />
-      ${favourite.title}
-    </a>
-  </div>
-
-  <div style="width:50%;float:right;">
-  </div>
-</p>
+| Favourite Movie | Most Recently Watched |
+| :---: | :---: |
+| [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
+| ${favourite.title} | ${recent.title} |
+| ${favourite.genre} | My rating: ${recent.rating} |
 `
       ).toString("base64"),
     });
-
-    // const res = await kit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
-    //   owner: "matievisthekat",
-    //   repo: "matievisthekat",
-    //   path: "README.md",
-    //   message: "Movies Action - Update README",
-    //   sha: readme.data.sha,
-    //   content: newContent,
-    // });
-
-    // console.log(res);
   });
 });
