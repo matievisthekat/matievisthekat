@@ -38,10 +38,3 @@ jobs:
           plugin_habits_days: 60
           plugin_habits_facts: no
           plugin_habits_charts: yes
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
