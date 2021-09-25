@@ -1,6 +1,7 @@
+![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
 
-hi
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--SECTION:movies-->
 | Favourite Movie | Most Recently Watched |
