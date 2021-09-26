@@ -49,7 +49,7 @@ fetchFavourite().then((favourite) => {
   fetchMostRecent().then(async (recent) => {
     console.log(favourite);
     const committer = github.getOctokit(committerToken);
-    console.log(committer);
+    console.log((await committer.rest.users.getAuthenticated()).data);
 
     const readme = await kit.request("GET /repos/{owner}/{repo}/contents/{path}", {
       owner: "matievisthekat",
@@ -63,7 +63,7 @@ fetchFavourite().then((favourite) => {
       path: "README.md",
       sha: readme.data.sha,
       message: "update movies",
-      committer: (await committer.rest.users.getAuthenticated()).data,
+      // committer: ,
       content: Buffer.from(
         `
 ${Buffer.from(readme.data.content, "base64").toString().split("<!--SECTION:movies-->")[0]}
