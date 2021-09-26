@@ -49,6 +49,7 @@ fetchFavourite().then((favourite) => {
   fetchMostRecent().then(async (recent) => {
     console.log(favourite);
     const committer = github.getOctokit(committerToken);
+    console.log(committer);
 
     const readme = await kit.request("GET /repos/{owner}/{repo}/contents/{path}", {
       owner: "matievisthekat",
@@ -71,7 +72,7 @@ ${Buffer.from(readme.data.content, "base64").toString().split("<!--SECTION:movie
 | :---: | :---: |
 | [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
 | ${favourite.title} | ${recent.title} |
-| ${favourite.genre} | My rating: ${recent.rating}/10 |
+| ${favourite.desc} | My rating: ${recent.rating}/10 |
 `
       ).toString("base64"),
     });
