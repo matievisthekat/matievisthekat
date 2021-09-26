@@ -1,15 +1,12 @@
 const cheerio = require("cheerio");
 const axios = require("axios");
 const { Octokit } = require("@octokit/rest");
-const github = require("@actions/github");
 
 const pat = process.env.PAT;
-const committerToken = process.env.COMMITTER_TOKEN;
 
 const kit = new Octokit({ auth: pat });
 
 if (!pat) throw new Error("No PAT");
-if (!committerToken) throw new Error("No COMMITTER_TOKEN");
 
 async function fetchMostRecent() {
   const { data } = await axios.get("https://www.imdb.com/user/ur122151934");
@@ -47,10 +44,6 @@ async function fetchFavourite() {
 
 fetchFavourite().then((favourite) => {
   fetchMostRecent().then(async (recent) => {
-    console.log(favourite);
-    const committer = github.getOctokit(committerToken);
-    console.log((await committer.rest.users.getAuthenticated()).data);
-
     const readme = await kit.request("GET /repos/{owner}/{repo}/contents/{path}", {
       owner: "matievisthekat",
       repo: "matievisthekat",
@@ -63,7 +56,6 @@ fetchFavourite().then((favourite) => {
       path: "README.md",
       sha: readme.data.sha,
       message: "update movies",
-      // committer: ,
       content: Buffer.from(
         `
 ${Buffer.from(readme.data.content, "base64").toString().split("<!--SECTION:movies-->")[0]}
