@@ -1,6 +1,6 @@
 name: GitHub Metrics
 on:
-  # Schedule updates
+  workflow_dispatch:
   schedule: 
     - cron: "0 * * * *"
 jobs:
