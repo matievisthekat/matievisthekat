@@ -71,7 +71,7 @@ ${Buffer.from(readme.data.content, "base64").toString().split("<!--SECTION:movie
 | :---: | :---: |
 | [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
 | ${favourite.title} | ${recent.title} |
-| ${favourite.genre} | My rating: ${recent.rating} |
+| ${favourite.genre} | My rating: ${recent.rating}/10 |
 `
       ).toString("base64"),
     });
