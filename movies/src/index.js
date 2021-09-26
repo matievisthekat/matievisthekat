@@ -1,11 +1,15 @@
 const cheerio = require("cheerio");
 const axios = require("axios");
 const { Octokit } = require("@octokit/rest");
+const github = require("@actions/github");
 
 const pat = process.env.PAT;
+const committerToken = process.env.COMMITTER_TOKEN;
+
 const kit = new Octokit({ auth: pat });
 
 if (!pat) throw new Error("No PAT");
+if (!committerToken) throw new Error("No COMMITTER_TOKEN");
 
 async function fetchMostRecent() {
   const { data } = await axios.get("https://www.imdb.com/user/ur122151934");
@@ -30,7 +34,7 @@ async function fetchFavourite() {
   const { data } = await axios.get("https://www.imdb.com/list/ls501572396/");
   const $ = cheerio.load(data);
   const list = $("div.lister-list");
-  const node = list.children()[0];
+  const node = list.children()[Math.floor(Math.random() * list.children().length)];
 
   const title = $("div.lister-item-content > h3 > a", node)[0].children[0].data;
   const img = $("div.lister-item-image > a > img", node)[0].attribs.loadlate;
@@ -43,6 +47,9 @@ async function fetchFavourite() {
 
 fetchFavourite().then((favourite) => {
   fetchMostRecent().then(async (recent) => {
+    console.log(favourite);
+    const committer = github.getOctokit(committerToken);
+
     const readme = await kit.request("GET /repos/{owner}/{repo}/contents/{path}", {
       owner: "matievisthekat",
       repo: "matievisthekat",
@@ -55,16 +62,12 @@ fetchFavourite().then((favourite) => {
       path: "README.md",
       sha: readme.data.sha,
       message: "update movies",
-      committer: {
-        email: "john.doe@test.com",
-        name: "john doe",
-      },
+      committer: (await committer.rest.users.getAuthenticated()).data,
       content: Buffer.from(
         `
 ${Buffer.from(readme.data.content, "base64").toString().split("<!--SECTION:movies-->")[0]}
-
 <!--SECTION:movies-->
-| Favourite Movie | Most Recently Watched |
+| One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
 | [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
 | ${favourite.title} | ${recent.title} |
