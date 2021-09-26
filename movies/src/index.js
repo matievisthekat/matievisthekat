@@ -63,6 +63,7 @@ fetchFavourite().then((favourite) => {
 | [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
 | ${favourite.title} | ${recent.title} |
 | ${favourite.genre} | My rating: ${recent.rating}/10 |
+
 <sup>last updated: ${new Date().toDateString()}</sup>
 
 <!--END_SECTION:movies-->${Buffer.from(readme.data.content, "base64").toString().split("<!--END_SECTION:movies-->")[1]}`
