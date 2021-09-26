@@ -1,15 +1,4 @@
-
-
-
-
-
-
 ![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
-
-
-
-
-
 
 <!--SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
