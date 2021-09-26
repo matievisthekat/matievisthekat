@@ -13,3 +13,6 @@ jobs:
         node-version: "14"
     - run: cd movies && yarn
     - run: cd movies && node .
+      env:
+        PAT: ${{ secrets.MISC_PAT }}
+      
