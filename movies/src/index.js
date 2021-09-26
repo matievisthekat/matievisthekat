@@ -38,6 +38,9 @@ async function fetchFavourite() {
   const desc = $("div.lister-item-content > p", node)[1].children[0].data.trim();
   const genre = $("div.lister-item-content > p.text-muted.text-small > span.genre", node)[0].children[0].data.trim();
   const link = "https://imdb.com" + $("div.lister-item-image > a")[0].attribs.href;
+  const rating = $("span.ipl-rating-selector__rating-value", node);
+
+  console.log(rating, title);
 
   return { title, img, desc, genre, link };
 }
