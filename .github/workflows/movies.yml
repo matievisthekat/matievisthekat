@@ -15,4 +15,5 @@ jobs:
     - run: cd movies && node .
       env:
         PAT: ${{ secrets.MISC_PAT }}
+        COMMITTER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
