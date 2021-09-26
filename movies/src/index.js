@@ -57,15 +57,15 @@ fetchFavourite().then((favourite) => {
       sha: readme.data.sha,
       message: "update movies",
       content: Buffer.from(
-        `
-${Buffer.from(readme.data.content, "base64").toString().split("<!--SECTION:movies-->")[0]}
-<!--SECTION:movies-->
+        `${Buffer.from(readme.data.content, "base64").toString().split("<!--START_SECTION:movies-->")[0]}
+<!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
 | [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
 | ${favourite.title} | ${recent.title} |
 | ${favourite.genre} | My rating: ${recent.rating}/10 |
-`
+<!--END_SECTION:movies-->
+${Buffer.from(readme.data.content, "base64").toString().split("<!--END_SECTION:movies-->")[1]}`
       ).toString("base64"),
     });
   });
