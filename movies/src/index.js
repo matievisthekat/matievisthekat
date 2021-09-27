@@ -61,7 +61,7 @@ fetchFavourite().then((favourite) => {
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
 | [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
-| ${favourite.title} | ${recent.title} |
+| [${favourite.title}](${favourite.link}) | [${recent.title}](${recent.link}) |
 | ${favourite.genre} | My rating: ${recent.rating}/10 |
 
 <sup>last updated: ${new Date().toDateString()}</sup>
