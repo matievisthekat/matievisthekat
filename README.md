@@ -12,5 +12,8 @@
 
 <!--END_SECTION:movies-->
 
-
-![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
+<details>
+  <summary>Stats</summary>
+  
+  ![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
+</details>
