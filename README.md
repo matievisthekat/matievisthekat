@@ -8,7 +8,7 @@
 | [The Autopsy of Jane Doe](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [Snowpiercer](https://imdb.com/title/tt1706620/) |
 | Horror, Mystery, Thriller | My rating: 7/10 |
 
-<sup>last updated: Tue Sep 28 2021</sup>
+<sup>last updated: Wed Sep 29 2021</sup>
 
 <!--END_SECTION:movies-->
 
