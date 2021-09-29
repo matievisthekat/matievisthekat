@@ -1662,9 +1662,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.6595474730387" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="229.6595474730387" y="0" width="223.3368576866145" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.9964051596532" y="0" width="7.003594840346796" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.36853220696938" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="229.36853220696938" y="0" width="223.636747624076" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.00527983104536" y="0" width="6.9947201689545935" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1675,7 +1675,7 @@
                     </div>
                             <small>
                                 <div>81 lines</div>
-                                <div>49.93%</div>
+                                <div>49.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1696,8 +1696,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>78 lines</div>
-                                <div>48.55%</div>
+                                <div>77 lines</div>
+                                <div>48.62%</div>
                             </small>
                         </div>
                     </section>
@@ -1901,7 +1901,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30/09/2021, 00:12 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 30/09/2021, 01:12 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
