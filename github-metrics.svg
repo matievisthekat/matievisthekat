@@ -1693,9 +1693,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.6109936575053" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="229.6109936575053" y="0" width="223.38689217758986" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.99788583509513" y="0" width="7.002114164904863" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.36853220696938" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="229.36853220696938" y="0" width="223.636747624076" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.00527983104536" y="0" width="6.9947201689545935" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1706,7 +1706,7 @@
                     </div>
                             <small>
                                 <div>81 lines</div>
-                                <div>49.92%</div>
+                                <div>49.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1727,8 +1727,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>78 lines</div>
-                                <div>48.56%</div>
+                                <div>77 lines</div>
+                                <div>48.62%</div>
                             </small>
                         </div>
                     </section>
@@ -1912,27 +1912,12 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 39.9407908648763%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">50%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 38.84119264115035%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">49%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Vue</span>
-                            <div class="bar" style="width: 1.218016493973356%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">2%</span>
-                        </div>
                     </div>
                 </section>
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30/09/2021, 11:12 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 30/09/2021, 12:13 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
