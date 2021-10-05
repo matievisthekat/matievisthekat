@@ -8,7 +8,7 @@
 | [Hell or High Water](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [Snowpiercer](https://imdb.com/title/tt1706620/) |
 | Action, Crime, Drama | My rating: 7/10 |
 
-<sup>last updated: Mon Oct 04 2021</sup>
+<sup>last updated: Tue Oct 05 2021</sup>
 
 <!--END_SECTION:movies-->
 
