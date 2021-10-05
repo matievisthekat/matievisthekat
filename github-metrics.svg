@@ -1693,9 +1693,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="331.82401466544457" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="331.82401466544457" y="0" width="118.05682859761687" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.8808432630614" y="0" width="10.119156736938589" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="331.41898077509916" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="331.41898077509916" y="0" width="118.47421422032346" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.8931949954226" y="0" width="10.106805004577357" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1706,7 +1706,7 @@
                     </div>
                             <small>
                                 <div>81 lines</div>
-                                <div>72.14%</div>
+                                <div>72.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1727,8 +1727,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>18 lines</div>
-                                <div>25.66%</div>
+                                <div>17 lines</div>
+                                <div>25.76%</div>
                             </small>
                         </div>
                     </section>
@@ -1932,7 +1932,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 05/10/2021, 04:26 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 05/10/2021, 05:13 (timezone Africa/Johannesburg) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
