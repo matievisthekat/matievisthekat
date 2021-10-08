@@ -1686,15 +1686,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 317 edited files from 118 commits over last 14 days
+            estimation from 20 edited files from 109 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.2258064516129" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="393.2258064516129" y="0" width="66.7741935483871" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.57430730478586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="376.57430730478586" y="0" width="83.4256926952141" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1705,7 +1705,7 @@
                     </div>
                             <small>
                                 <div>6 lines</div>
-                                <div>85.48%</div>
+                                <div>81.86%</div>
                             </small>
                         </div>
                     </section>
@@ -1717,7 +1717,7 @@
                     </div>
                             <small>
                                 <div>1 line</div>
-                                <div>14.52%</div>
+                                <div>18.14%</div>
                             </small>
                         </div>
                     </section>
@@ -1921,7 +1921,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 08/10/2021, 18:18 (timezone Africa/Johannesburg) with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 08/10/2021, 19:18 (timezone Africa/Johannesburg) with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
