@@ -1686,15 +1686,14 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 10 edited files from 69 commits over last 14 days
+            estimation from 8 edited files from 67 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.1518987341772" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="376.1518987341772" y="0" width="83.84810126582279" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1704,22 +1703,12 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>5 lines</div>
-                                <div>81.77%</div>
+                                <div>6 lines</div>
+                                <div>100%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Vue
-                    </div>
-                            <small>
-                                <div>1 line</div>
-                                <div>18.23%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1921,7 +1910,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 09/10/2021, 18:17 (timezone Africa/Johannesburg) with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 09/10/2021, 19:15 (timezone Africa/Johannesburg) with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
