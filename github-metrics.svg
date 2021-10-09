@@ -1693,8 +1693,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.57430730478586" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="376.57430730478586" y="0" width="83.4256926952141" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.1518987341772" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="376.1518987341772" y="0" width="83.84810126582279" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1704,8 +1704,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>6 lines</div>
-                                <div>81.86%</div>
+                                <div>5 lines</div>
+                                <div>81.77%</div>
                             </small>
                         </div>
                     </section>
@@ -1717,7 +1717,7 @@
                     </div>
                             <small>
                                 <div>1 line</div>
-                                <div>18.14%</div>
+                                <div>18.23%</div>
                             </small>
                         </div>
                     </section>
@@ -1903,17 +1903,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 57.63808361306072%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 57.60292772186642%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">72%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 20.604211168751906%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 20.640439158279964%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">26%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Vue</span>
-                            <div class="bar" style="width: 1.7577052181873665%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.756633119853614%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -1921,7 +1921,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 09/10/2021, 14:18 (timezone Africa/Johannesburg) with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 09/10/2021, 15:16 (timezone Africa/Johannesburg) with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
