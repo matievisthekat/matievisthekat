@@ -1,5 +1,6 @@
 name: PoopMap
 on:
+  workflow_dispatch:
   # Schedule updates (each hour)
   schedule: 
     - cron: "0 * * * *"
