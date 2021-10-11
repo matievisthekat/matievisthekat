@@ -4,11 +4,11 @@
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt1706620/) |
-| [The Autopsy of Jane Doe](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [Snowpiercer](https://imdb.com/title/tt1706620/) |
-| Horror, Mystery, Thriller | My rating: 7/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BMjlhYzY4ODQtYWY3ZS00NGUwLTk5NWYtYjBlMjUzMmNkZWU0XkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_SY153_CR1,0,105,153_.jpg)](https://imdb.com/title/tt10530176/) |
+| [Hell or High Water](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [The Call](https://imdb.com/title/tt10530176/) |
+| Action, Crime, Drama | My rating: 8/10 |
 
-<sup>last updated: Sun Oct 10 2021</sup>
+<sup>last updated: Mon Oct 11 2021</sup>
 
 <!--END_SECTION:movies-->
 
