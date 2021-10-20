@@ -2,7 +2,7 @@
   "name": "get-most-recent-movie",
   "version": "1.0.0",
   "description": "Get my favourite and most recently watched movie",
-  "main": "src/index.js",
+  "main": "index.js",
   "repository": "https://github.com/matievisthekat/get-my-movies",
   "author": "Matthew Stead <matievisthekat@gmail.com",
   "license": "MIT",
