@@ -9,15 +9,17 @@
 | Drama, Horror, Thriller | My rating: 7/10 |
 
 <sup>last updated: Wed Oct 20 2021</sup>
-
 <!--END_SECTION:movies-->
 
 <details>
-  <summary>Stats</summary>
+  <summary>Poop Stats</summary>
+  
+  <!--START_SECTION:poop-->
+  <!--END_SECTION:poop-->
+</details>
+
+<details>
+  <summary>Github Stats</summary>
   
   ![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
 </details>
-<!--START_SECTION:poop-->
-##### Poop Stats
-<sup>last updated: Wed Oct 20 2021</sup>
-<!--END_SECTION:poop-->undefined
