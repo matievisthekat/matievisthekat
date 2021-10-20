@@ -17,3 +17,7 @@
   
   ![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
 </details>
+<!--START_SECTION:poop-->
+##### Poop Stats
+<sup>last updated: Wed Oct 20 2021</sup>
+<!--END_SECTION:poop-->undefined
