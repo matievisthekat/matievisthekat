@@ -15,7 +15,9 @@
   <summary>Poop Stats</summary>
   
   <!--START_SECTION:poop-->
-  <!--END_SECTION:poop-->
+##### Poop Stats
+<sup>last updated: Wed Oct 20 2021</sup>
+<!--END_SECTION:poop-->
 </details>
 
 <details>
