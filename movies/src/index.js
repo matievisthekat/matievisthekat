@@ -56,6 +56,10 @@ fetchFavourite().then((favourite) => {
       path: "README.md",
       sha: readme.data.sha,
       message: "update movies",
+      committer: {
+        name: "github-actions",
+        email: "<>"
+      },
       content: Buffer.from(
         `${Buffer.from(readme.data.content, "base64").toString().split("<!--START_SECTION:movies-->")[0]}<!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
