@@ -58,7 +58,7 @@ fetchFavourite().then((favourite) => {
       message: "update movies",
       committer: {
         name: "github-actions",
-        email: "<>"
+        email: "actions@github.com"
       },
       content: Buffer.from(
         `${Buffer.from(readme.data.content, "base64").toString().split("<!--START_SECTION:movies-->")[0]}<!--START_SECTION:movies-->
