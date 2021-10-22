@@ -8,7 +8,7 @@
 | [Hell or High Water](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [Silver Linings Playbook](https://imdb.com/title/tt1045658/) |
 | Action, Crime, Drama | My rating: 7/10 |
 
-<sup>last updated: Thu Oct 21 2021</sup>
+<sup>last updated: Fri Oct 22 2021</sup>
 
 <!--END_SECTION:movies-->
 
