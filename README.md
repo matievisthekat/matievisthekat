@@ -1,6 +1,5 @@
 ### Hello there
 
-
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
@@ -9,17 +8,9 @@
 | Action, Crime, Drama | My rating: 7/10 |
 
 <sup>last updated: Fri Oct 22 2021</sup>
-
 <!--END_SECTION:movies-->
 
-<details>
-  <summary>Poop Stats</summary>
-  
-  <!--START_SECTION:poop-->
-##### Poop Stats
-<sup>last updated: Wed Oct 20 2021</sup>
-<!--END_SECTION:poop-->
-</details>
+#### 💩 [View my Poop here!](https://map.poopmap.net/map.html?token=118c08ea753c910b6849e78958bca987)
 
 <details>
   <summary>Github Stats</summary>
