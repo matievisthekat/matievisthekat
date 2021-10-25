@@ -1,0 +1,19 @@
+name: PoopStats
+on:
+  # Schedule updates (each hour)
+  schedule: 
+    - cron: "0 * * * *"
+jobs:
+  poopmap-bio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: matievisthekat/poop-stats@latest
+        with:
+          # A GitHub Personal Access Token that allows the action the access the current repo
+          pat: ${{ secrets.POOP_STATS_TOKEN }}
+          
+          # Your PoopMap username
+          username: "matievisthekat"
+          
+          # Your PoopMap password
+          password: ${{ secrets.POOP_PASSWORD }}
