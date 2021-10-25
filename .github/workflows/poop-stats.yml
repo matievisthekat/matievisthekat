@@ -11,7 +11,7 @@ jobs:
       - uses: matievisthekat/poop-stats@master
         with:
           # A GitHub Personal Access Token that allows the action the access the current repo
-          pat: ${{ secrets.POOP_STATS_TOKEN }}
+          pat: ${{ secrets.POOP_STATS_PAT }}
           
           # Your PoopMap username
           username: "matievisthekat"
