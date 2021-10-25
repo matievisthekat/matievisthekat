@@ -4,7 +4,7 @@ on:
   schedule: 
     - cron: "0 * * * *"
 jobs:
-  poopmap-bio:
+  poop-stats:
     runs-on: ubuntu-latest
     steps:
       - uses: matievisthekat/poop-stats@latest
