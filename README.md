@@ -11,7 +11,8 @@
 
 <!--END_SECTION:movies-->
 
-#### 💩 [View my Poop here!](https://map.poopmap.net/map.html?token=118c08ea753c910b6849e78958bca987)
+#### 💩 [View all my poops here!](https://map.poopmap.net/map.html?token=118c08ea753c910b6849e78958bca987)
+![haha poop](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/poop-metrics.svg)
 
 <details>
   <summary>Github Stats</summary>
