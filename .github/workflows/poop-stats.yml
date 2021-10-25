@@ -3,6 +3,7 @@ on:
   # Schedule updates (each hour)
   schedule: 
     - cron: "0 * * * *"
+  workflow_dispatch:
 jobs:
   poop-stats:
     runs-on: ubuntu-latest
