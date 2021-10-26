@@ -1,6 +1,5 @@
 ### Hello there
-My name is Matthew Stead, I'm 16 years old and I really enjoy coding.
-
+My name is Matthew Stead, I'm 16 years old and I really enjoy coding.<br/>
 Most of my projects are in TypeScript, but I really want to learn some new languages!
 
 ---
