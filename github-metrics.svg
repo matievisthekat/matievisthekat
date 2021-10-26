@@ -1686,15 +1686,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 281 edited files from 68 commits over last 13 days
+            estimation from 281 edited files from 69 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.54545454545456" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="334.54545454545456" y="0" width="125.45454545454544" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="322" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="322" y="0" width="138" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1704,8 +1704,8 @@
                       EJS
                     </div>
                             <small>
-                                <div>1 line</div>
-                                <div>72.73%</div>
+                                <div>5 lines</div>
+                                <div>70%</div>
                             </small>
                         </div>
                     </section>
@@ -1717,7 +1717,7 @@
                     </div>
                             <small>
                                 <div>4 lines</div>
-                                <div>27.27%</div>
+                                <div>30%</div>
                             </small>
                         </div>
                     </section>
@@ -1862,8 +1862,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">36</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">35</span>
+                <div class="bar" style="height: 48.61111111111111px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1872,8 +1872,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">21</span>
-                <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">22</span>
+                <div class="bar" style="height: 30.555555555555557px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1916,7 +1916,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2021, 13:10:56 (timezone Africa/Johannesburg) with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 26 Oct 2021, 14:19:54 (timezone Africa/Johannesburg) with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
