@@ -1,4 +1,20 @@
 ### Hello there
+My name is Matthew Stead, I'm 16 years old and I really enjoy coding.
+
+Most of my projects are in TypeScript, but I really want to learn some new languages!
+
+---
+
+<details>
+  <summary>Github Stats</summary>
+  
+  ![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
+</details>
+
+#### 💩 [View all my poops here!](https://map.poopmap.net/map.html?token=118c08ea753c910b6849e78958bca987)
+![haha poop](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/poop-metrics.svg)
+
+---
 
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
@@ -10,12 +26,3 @@
 <sup>last updated: Tue Oct 26 2021</sup>
 
 <!--END_SECTION:movies-->
-
-#### 💩 [View all my poops here!](https://map.poopmap.net/map.html?token=118c08ea753c910b6849e78958bca987)
-![haha poop](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/poop-metrics.svg)
-
-<details>
-  <summary>Github Stats</summary>
-  
-  ![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
-</details>
