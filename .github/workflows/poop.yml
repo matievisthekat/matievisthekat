@@ -18,3 +18,5 @@ jobs:
           
           # Your PoopMap password
           password: ${{ secrets.POOP_PASSWORD }}
+          
+          seperator: "-"
