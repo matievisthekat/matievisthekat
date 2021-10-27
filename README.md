@@ -4,13 +4,9 @@ Most of my projects are in TypeScript, but I really want to learn some new langu
 
 ---
 
-<details>
-  <summary>Github Stats</summary>
-  
-  ![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
-</details>
-
 #### 💩 [View all my poops here!](https://map.poopmap.net/map.html?token=118c08ea753c910b6849e78958bca987)
+![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
+
 ![haha poop](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/poop-metrics.svg)
 
 ---
