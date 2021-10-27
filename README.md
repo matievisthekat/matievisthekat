@@ -22,6 +22,6 @@ Most of my projects are in TypeScript, but I really want to learn some new langu
 | [The Autopsy of Jane Doe](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [Arrival](https://imdb.com/title/tt2543164/) |
 | Horror, Mystery, Thriller | My rating: 8/10 |
 
-<sup>last updated: Tue Oct 26 2021</sup>
+<sup>last updated: Wed Oct 27 2021</sup>
 
 <!--END_SECTION:movies-->
