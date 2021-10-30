@@ -18,6 +18,6 @@ Most of my projects are in TypeScript, but I really want to learn some new langu
 | [Room](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [Enemy](https://imdb.com/title/tt2316411/) |
 | Drama, Thriller | My rating: 9/10 |
 
-<sup>last updated: Fri Oct 29 2021</sup>
+<sup>last updated: Sat Oct 30 2021</sup>
 
 <!--END_SECTION:movies-->
