@@ -1686,16 +1686,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 298 edited files from 199 commits over last 13 days
+            estimation from 298 edited files from 200 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.0474040632054" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="353.0474040632054" y="0" width="58.1489841986456" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="411.19638826185104" y="0" width="48.80361173814899" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.92655367231635" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="352.92655367231635" y="0" width="58.21468926553672" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="411.14124293785306" y="0" width="48.85875706214689" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1705,8 +1705,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>24 lines</div>
-                                <div>76.75%</div>
+                                <div>25 lines</div>
+                                <div>76.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1716,7 +1716,7 @@
                     </div>
                             <small>
                                 <div>5 lines</div>
-                                <div>10.61%</div>
+                                <div>10.62%</div>
                             </small>
                         </div>
                     </section>
@@ -1728,7 +1728,7 @@
                     </div>
                             <small>
                                 <div>5 lines</div>
-                                <div>12.64%</div>
+                                <div>12.66%</div>
                             </small>
                         </div>
                     </section>
@@ -1873,8 +1873,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">13</span>
+                <div class="bar" style="height: 14.444444444444443px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1898,8 +1898,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">33</span>
-                <div class="bar" style="height: 36.666666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">32</span>
+                <div class="bar" style="height: 35.55555555555556px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1932,7 +1932,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2021, 07:11:24 (timezone Africa/Johannesburg) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 31 Oct 2021, 08:14:47 (timezone Africa/Johannesburg) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
