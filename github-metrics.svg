@@ -1686,17 +1686,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 309 edited files from 233 commits over last 11 days
+            estimation from 308 edited files from 233 commits over last 11 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.5858951175407" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="320.5858951175407" y="0" width="113.12839059674502" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="433.7142857142857" y="0" width="18.632911392405063" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="452.34719710669077" y="0" width="7.6528028933092225" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.28155339805824" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="297.28155339805824" y="0" width="132.03883495145632" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="429.32038834951453" y="0" width="21.747572815533978" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="451.06796116504853" y="0" width="8.932038834951456" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1706,8 +1706,8 @@
                       Dart
                     </div>
                             <small>
-                                <div>105 lines</div>
-                                <div>69.69%</div>
+                                <div>85 lines</div>
+                                <div>64.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1717,7 +1717,7 @@
                     </div>
                             <small>
                                 <div>5 lines</div>
-                                <div>4.05%</div>
+                                <div>4.73%</div>
                             </small>
                         </div>
                     </section>
@@ -1729,7 +1729,7 @@
                     </div>
                             <small>
                                 <div>24 lines</div>
-                                <div>24.59%</div>
+                                <div>28.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1739,7 +1739,7 @@
                     </div>
                             <small>
                                 <div>1 line</div>
-                                <div>1.66%</div>
+                                <div>1.94%</div>
                             </small>
                         </div>
                     </section>
@@ -1758,8 +1758,8 @@
                 <h3>Commit activity per hour of day</h3>
                 <div class="chart-bars">
                     <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 19.444444444444446px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               00
             </div>
                     <div class="entry">
@@ -1798,8 +1798,8 @@
               07
             </div>
                     <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 30.555555555555557px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">10</span>
+              <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               08
             </div>
                     <div class="entry">
@@ -1894,8 +1894,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">29</span>
-                <div class="bar" style="height: 25.438596491228072px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">30</span>
+                <div class="bar" style="height: 26.31578947368421px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1909,8 +1909,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">29</span>
-                <div class="bar" style="height: 25.438596491228072px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">28</span>
+                <div class="bar" style="height: 24.561403508771928px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1948,7 +1948,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2021, 00:10:53 (timezone Africa/Johannesburg) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 2 Nov 2021, 01:13:35 (timezone Africa/Johannesburg) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
