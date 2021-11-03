@@ -51,10 +51,10 @@ I mostly do website and API development, but I'm getting into mobile development
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BYzE3ZDg0OTktYjlhNC00ZmQ0LTk0YjktMDE1ZWE2YjIwMjk4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BMWJmNmRjYzgtNDk0ZC00ZDk5LTkyNGItMDY5OWU4MjU4ZTExXkEyXkFqcGdeQXVyMTA5MzEzOTg@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt6218358/) |
-| [Saint Maud](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [Calibre](https://imdb.com/title/tt6218358/) |
-| Drama, Horror, Thriller | My rating: 8/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BMWJmNmRjYzgtNDk0ZC00ZDk5LTkyNGItMDY5OWU4MjU4ZTExXkEyXkFqcGdeQXVyMTA5MzEzOTg@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt6218358/) |
+| [Room](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [Calibre](https://imdb.com/title/tt6218358/) |
+| Drama, Thriller | My rating: 8/10 |
 
-<sup>last updated: Tue Nov 02 2021</sup>
+<sup>last updated: Wed Nov 03 2021</sup>
 
 <!--END_SECTION:movies-->
