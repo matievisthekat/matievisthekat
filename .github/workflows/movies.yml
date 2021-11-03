@@ -2,7 +2,7 @@ name: Movies
 on:
   workflow_dispatch:
   schedule: 
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
 jobs:
   movies:
     runs-on: ubuntu-latest
