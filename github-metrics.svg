@@ -1741,16 +1741,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 55 edited files from 255 commits over last 9 days
+            estimation from 54 edited files from 255 commits over last 9 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.12959381044487" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="249.12959381044487" y="0" width="155.86776859504133" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="404.9973624054862" y="0" width="55.00263759451381" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.7754677754678" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="267.7754677754678" y="0" width="133.10527310527308" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="400.88074088074086" y="0" width="59.11925911925911" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1761,7 +1761,7 @@
                     </div>
                             <small>
                                 <div>150 lines</div>
-                                <div>54.16%</div>
+                                <div>58.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1771,7 +1771,7 @@
                     </div>
                             <small>
                                 <div>24 lines</div>
-                                <div>11.96%</div>
+                                <div>12.85%</div>
                             </small>
                         </div>
                     </section>
@@ -1782,8 +1782,8 @@
                       Dart
                     </div>
                             <small>
-                                <div>105 lines</div>
-                                <div>33.88%</div>
+                                <div>85 lines</div>
+                                <div>28.94%</div>
                             </small>
                         </div>
                     </section>
@@ -1827,13 +1827,13 @@
               04
             </div>
                     <div class="entry">
-              <span class="value">10</span>
-              <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">9</span>
+              <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               05
             </div>
                     <div class="entry">
-              <span class="value">10</span>
-              <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">9</span>
+              <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               06
             </div>
                     <div class="entry">
@@ -1842,8 +1842,8 @@
               07
             </div>
                     <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 36.666666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">13</span>
+              <div class="bar" style="height: 43.333333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               08
             </div>
                     <div class="entry">
@@ -1948,8 +1948,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">46</span>
-                <div class="bar" style="height: 41.07142857142857px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">44</span>
+                <div class="bar" style="height: 39.285714285714285px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1958,8 +1958,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">41</span>
-                <div class="bar" style="height: 36.607142857142854px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">43</span>
+                <div class="bar" style="height: 38.392857142857146px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1987,7 +1987,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2021, 08:14:53 (timezone Africa/Johannesburg) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 6 Nov 2021, 09:12:22 (timezone Africa/Johannesburg) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
