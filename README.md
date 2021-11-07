@@ -74,9 +74,9 @@ I mostly do website and API development, but I'm getting into mobile development
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTI4MjQ1MDE1MV5BMl5BanBnXkFtZTcwNzIxMDk0Mw@@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt1245112/) |
-| [Room](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [[Rec]²](https://imdb.com/title/tt1245112/) |
-| Drama, Thriller | My rating: 7/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_UY209_CR4,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTI4MjQ1MDE1MV5BMl5BanBnXkFtZTcwNzIxMDk0Mw@@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt1245112/) |
+| [REC](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [[Rec]²](https://imdb.com/title/tt1245112/) |
+| Horror, Mystery, Thriller | My rating: 7/10 |
 
 <sup>last updated: Sun Nov 07 2021</sup>
 
