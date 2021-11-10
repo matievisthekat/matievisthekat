@@ -74,10 +74,10 @@ I mostly do website and API development, but I'm getting into mobile development
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_SY153_CR2,0,105,153_.jpg)](https://imdb.com/title/tt1038988/) |
-| [Room](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [REC](https://imdb.com/title/tt1038988/) |
-| Drama, Thriller | My rating: 9/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_SY153_CR2,0,105,153_.jpg)](https://imdb.com/title/tt1038988/) |
+| [The Autopsy of Jane Doe](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [REC](https://imdb.com/title/tt1038988/) |
+| Horror, Mystery, Thriller | My rating: 9/10 |
 
-<sup>last updated: Tue Nov 09 2021</sup>
+<sup>last updated: Wed Nov 10 2021</sup>
 
 <!--END_SECTION:movies-->
