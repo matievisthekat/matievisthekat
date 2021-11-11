@@ -14,7 +14,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Johannesburg
           config_display: columns
-          config_padding: 0, -5%
+          config_padding: 0, 8
           
           plugin_languages: yes
           plugin_languages_details: percentage, lines
