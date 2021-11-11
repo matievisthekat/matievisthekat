@@ -13,6 +13,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Johannesburg
+          config_display: columns
           
           plugin_languages: yes
           plugin_languages_details: percentage, lines
