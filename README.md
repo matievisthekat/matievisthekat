@@ -196,9 +196,9 @@
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_SY153_CR2,0,105,153_.jpg)](https://imdb.com/title/tt1038988/) |
-| [Side Effects](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [REC](https://imdb.com/title/tt1038988/) |
-| Crime, Drama, Mystery | My rating: 9/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_UY209_CR4,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_SY153_CR2,0,105,153_.jpg)](https://imdb.com/title/tt1038988/) |
+| [REC](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [REC](https://imdb.com/title/tt1038988/) |
+| Horror, Mystery, Thriller | My rating: 9/10 |
 
 <sup>last updated: Sat Nov 13 2021</sup>
 
