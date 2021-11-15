@@ -1,5 +1,8 @@
 <div align="center">
-  <h3>Hello there</h3>
+  <h3>Hello There</h3>
+  <img src="https://github.com/matievisthekat/matievisthekat/blob/master/intro.gif?raw=true" height="400" />
+  <br />
+  <br />
   My name is Matthew Stead, I'm 16 years old and I've been coding since I was 10.
 
   My introduction to programming was Khan Academy's JavaScript course. I started it purely because my older brother was doing it and I wanted more than anything to be just like him.
