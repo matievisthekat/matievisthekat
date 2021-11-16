@@ -1841,10 +1841,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.0654117647059" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="281.0654117647059" y="0" width="124.60047058823531" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="405.6658823529412" y="0" width="47.14729411764706" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="452.8131764705883" y="0" width="7.186823529411765" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.2621202977268" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="317.2621202977268" y="0" width="135.05733252866628" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="452.3194528263931" y="0" width="7.680547173606921" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1856,20 +1855,20 @@
                                 Rust
                             </div>
                             <small>
-                                <div>260 lines</div>
-                                <div>61.1%</div>
+                                <div>279 lines</div>
+                                <div>68.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                Dart
                             </div>
                             <small>
-                                <div>34 lines</div>
-                                <div>10.25%</div>
+                                <div>13 lines</div>
+                                <div>1.67%</div>
                             </small>
                         </div>
                     </section>
@@ -1882,20 +1881,8 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>107 lines</div>
-                                <div>27.09%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Dart
-                            </div>
-                            <small>
-                                <div>13 lines</div>
-                                <div>1.56%</div>
+                                <div>97 lines</div>
+                                <div>29.36%</div>
                             </small>
                         </div>
                     </section>
@@ -1999,8 +1986,8 @@
                         16
                     </div>
                     <div class="entry">
-                        <span class="value">17</span>
-                        <div class="bar" style="height: 35.41666666666667px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">18</span>
+                        <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         17
                     </div>
                     <div class="entry">
@@ -2024,8 +2011,8 @@
                         21
                     </div>
                     <div class="entry">
-                        <span class="value">10</span>
-                        <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">9</span>
+                        <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         22
                     </div>
                     <div class="entry">
@@ -2040,8 +2027,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">32</span>
-                            <div class="bar" style="height: 25.806451612903224px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">31</span>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
@@ -2050,8 +2037,8 @@
                             Mon
                         </div>
                         <div class="entry">
-                            <span class="value">50</span>
-                            <div class="bar" style="height: 40.32258064516129px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">51</span>
+                            <div class="bar" style="height: 41.12903225806452px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -2114,7 +2101,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2021, 17:13:48 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 16 Nov 2021, 18:16:18 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
