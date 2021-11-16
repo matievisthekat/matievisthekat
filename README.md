@@ -15,8 +15,6 @@
   
   Recently I've been learning Ruby and Rust. The projects I'm creating to learn Rust: <a href="https://github.com/matievisthekat/chum" target="_blank">Chum, a simpler alternative to Git</a>, and Ruby: the API for <a href="https://github.com/TrailBuddies" target="_blank">Trail Buddies, a mobile app to find new friends to hike with</a>
 
-</div>
-
 ---
 
 ![Metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg)
@@ -206,3 +204,5 @@
 <sup>last updated: Tue Nov 16 2021</sup>
 
 <!--END_SECTION:movies-->
+  
+</div>
