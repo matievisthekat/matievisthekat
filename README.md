@@ -197,11 +197,11 @@
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BYzE3ZDg0OTktYjlhNC00ZmQ0LTk0YjktMDE1ZWE2YjIwMjk4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt2184339/) |
-| [Saint Maud](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [The Purge](https://imdb.com/title/tt2184339/) |
-| Drama, Horror, Mystery | My rating: 3/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt2184339/) |
+| [Side Effects](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [The Purge](https://imdb.com/title/tt2184339/) |
+| Crime, Drama, Mystery | My rating: 3/10 |
 
-<sup>last updated: Tue Nov 16 2021</sup>
+<sup>last updated: Wed Nov 17 2021</sup>
 
 <!--END_SECTION:movies-->
   
