@@ -1841,9 +1841,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.20242488139166" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="354.20242488139166" y="0" width="68.06642066420665" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="422.2688455455983" y="0" width="37.73115445440168" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.1912695065373" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="354.1912695065373" y="0" width="68.07359763812737" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="422.2648671446647" y="0" width="37.7351328553353" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1901,8 +1901,8 @@
                 <h3>Commit activity per hour of day</h3>
                 <div class="chart-bars">
                     <div class="entry">
-                        <span class="value">8</span>
-                        <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">9</span>
+                        <div class="bar" style="height: 20.454545454545457px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         00
                     </div>
                     <div class="entry">
@@ -1981,8 +1981,8 @@
                         15
                     </div>
                     <div class="entry">
-                        <span class="value">13</span>
-                        <div class="bar" style="height: 29.545454545454547px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">12</span>
+                        <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         16
                     </div>
                     <div class="entry">
@@ -2042,8 +2042,8 @@
                             Tue
                         </div>
                         <div class="entry">
-                            <span class="value">48</span>
-                            <div class="bar" style="height: 32px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">47</span>
+                            <div class="bar" style="height: 31.333333333333336px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -2052,8 +2052,8 @@
                             Thu
                         </div>
                         <div class="entry">
-                            <span class="value">36</span>
-                            <div class="bar" style="height: 24px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">37</span>
+                            <div class="bar" style="height: 24.666666666666668px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
@@ -2068,22 +2068,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 50.66947812335266%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 50.67102419482368%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">63%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 11.837638376383763%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.837014390385326%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 10.930943595150238%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 10.930367402878076%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">14%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 6.561939905113336%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.56159401191292%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">8%</span>
                         </div>
                     </div>
@@ -2091,7 +2091,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2021, 00:12:44 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 19 Nov 2021, 01:13:30 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
