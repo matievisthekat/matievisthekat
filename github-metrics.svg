@@ -1841,9 +1841,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.83466275978077" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="342.83466275978077" y="0" width="70.06457214173314" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="412.8992349015139" y="0" width="47.10076509848608" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.8410200759631" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="342.8410200759631" y="0" width="70.06077048290831" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="412.9017905588714" y="0" width="47.098209441128596" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1855,7 +1855,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>612 lines</div>
+                                <div>611 lines</div>
                                 <div>74.53%</div>
                             </small>
                         </div>
@@ -1916,8 +1916,8 @@
                         02
                     </div>
                     <div class="entry">
-                        <span class="value">17</span>
-                        <div class="bar" style="height: 38.63636363636363px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <span class="value">18</span>
+                        <div class="bar" style="height: 40.909090909090914px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         03
                     </div>
                     <div class="entry">
@@ -1981,8 +1981,8 @@
                         15
                     </div>
                     <div class="entry">
-                        <span class="value">10</span>
-                        <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">9</span>
+                        <div class="bar" style="height: 20.454545454545457px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         16
                     </div>
                     <div class="entry">
@@ -2037,8 +2037,8 @@
                             Mon
                         </div>
                         <div class="entry">
-                            <span class="value">41</span>
-                            <div class="bar" style="height: 30.597014925373134px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">40</span>
+                            <div class="bar" style="height: 29.850746268656714px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -2047,8 +2047,8 @@
                             Wed
                         </div>
                         <div class="entry">
-                            <span class="value">46</span>
-                            <div class="bar" style="height: 34.32835820895522px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">47</span>
+                            <div class="bar" style="height: 35.07462686567165px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
@@ -2091,7 +2091,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2021, 03:56:12 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 18 Nov 2021, 04:27:22 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
