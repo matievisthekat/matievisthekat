@@ -201,7 +201,7 @@
 | [Requiem for a Dream](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [The Purge](https://imdb.com/title/tt2184339/) |
 | Drama | My rating: 3/10 |
 
-<sup>last updated: Fri Nov 19 2021</sup>
+<sup>last updated: Sat Nov 20 2021</sup>
 
 <!--END_SECTION:movies-->
   
