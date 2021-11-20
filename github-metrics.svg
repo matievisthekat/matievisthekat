@@ -1841,9 +1841,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.16508538899427" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="354.16508538899427" y="0" width="68.10773771874341" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="422.2728231077377" y="0" width="37.727176892262285" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.18375415107266" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="354.18375415107266" y="0" width="68.06283274471562" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="422.2465868957883" y="0" width="37.753413104211695" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1856,7 +1856,7 @@
                             </div>
                             <small>
                                 <div>687 lines</div>
-                                <div>76.99%</div>
+                                <div>77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1867,8 +1867,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>81 lines</div>
-                                <div>8.2%</div>
+                                <div>82 lines</div>
+                                <div>8.21%</div>
                             </small>
                         </div>
                     </section>
@@ -1882,7 +1882,7 @@
                             </div>
                             <small>
                                 <div>91 lines</div>
-                                <div>14.81%</div>
+                                <div>14.8%</div>
                             </small>
                         </div>
                     </section>
@@ -1931,8 +1931,8 @@
                         05
                     </div>
                     <div class="entry">
-                        <span class="value">8</span>
-                        <div class="bar" style="height: 21.052631578947366px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">9</span>
+                        <div class="bar" style="height: 23.684210526315788px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         06
                     </div>
                     <div class="entry">
@@ -1956,8 +1956,8 @@
                         10
                     </div>
                     <div class="entry">
-                        <span class="value">13</span>
-                        <div class="bar" style="height: 34.21052631578947px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">12</span>
+                        <div class="bar" style="height: 31.57894736842105px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         11
                     </div>
                     <div class="entry">
@@ -2047,8 +2047,8 @@
                             Wed
                         </div>
                         <div class="entry">
-                            <span class="value">59</span>
-                            <div class="bar" style="height: 46.09375px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">58</span>
+                            <div class="bar" style="height: 45.3125px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
@@ -2057,8 +2057,8 @@
                             Fri
                         </div>
                         <div class="entry">
-                            <span class="value">36</span>
-                            <div class="bar" style="height: 28.125px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">37</span>
+                            <div class="bar" style="height: 28.90625px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -2091,7 +2091,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2021, 06:16:31 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 20 Nov 2021, 07:11:23 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
