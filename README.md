@@ -32,6 +32,9 @@
     <a href="https://javascript.com">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="javascript" />
     </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust" />
+    </a>
     <a href="https://dart.dev">
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="dart" />
     </a>
