@@ -36,3 +36,7 @@ jobs:
           plugin_habits_days: 60
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
