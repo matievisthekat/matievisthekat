@@ -37,7 +37,7 @@ jobs:
           #plugin_habits_facts: no
           #plugin_habits_charts: yes
           
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, editors, os
+          #plugin_wakatime: yes
+          #plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          #plugin_wakatime_days: 7
+          #plugin_wakatime_sections: time, projects, editors, os
