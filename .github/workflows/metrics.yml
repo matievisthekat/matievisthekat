@@ -31,6 +31,9 @@ jobs:
           
           plugin_lines: yes
           
+          plugin_poopmap: yes
+          plugin_poopmap_token: ${{ secrets.POOPMAP_TOKEN }}
+          
           #plugin_habits: yes
           #plugin_habits_from: 500
           #plugin_habits_days: 60
