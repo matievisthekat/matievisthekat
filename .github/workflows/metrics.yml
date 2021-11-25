@@ -32,7 +32,7 @@ jobs:
           plugin_lines: yes
           
           plugin_poopmap: yes
-          plugin_poopmap_token: ${{ secrets.POOPMAP_TOKEN }}
+          plugin_poopmap_token: "15d71a6dc6682c75553ab48c2db4edc4"
           
           #plugin_habits: yes
           #plugin_habits_from: 500
