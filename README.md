@@ -29,6 +29,8 @@ Recently I've been learning Ruby and Rust. The projects I'm creating to learn Ru
 <details>
   <summary>More Info</summary>
   
+  <div align="left">
+    
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
@@ -83,6 +85,8 @@ Linux                    6 hrs 16 mins       ███████████�
 
  Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
+    
+  </div>
 </details>
 
 ---
