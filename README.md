@@ -270,7 +270,7 @@ Linux                    4 hrs 33 mins       ███████████�
 | [REC](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [American Psycho](https://imdb.com/title/tt0144084/) |
 | Horror, Mystery, Thriller | My rating: 8/10 |
 
-<sup>last updated: Thu Nov 25 2021</sup>
+<sup>last updated: Fri Nov 26 2021</sup>
 
 <!--END_SECTION:movies-->
   
