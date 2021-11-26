@@ -327,7 +327,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3578 edited files from 1744 commits</small>
+                <small>estimation from 3578 edited files from 1745 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -453,10 +453,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.52434935334503" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="372.52434935334503" y="0" width="34.2508914790569" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="406.77524083240195" y="0" width="31.949544946511256" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="438.7247857789132" y="0" width="21.275214221086806" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.25617546848383" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="372.25617546848383" y="0" width="34.26000851788756" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="406.5161839863714" y="0" width="31.958049403747868" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="438.47423339011925" y="0" width="21.525766609880748" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -468,8 +468,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>708 lines</div>
-                                <div>80.98%</div>
+                                <div>709 lines</div>
+                                <div>80.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -506,8 +506,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>30 lines</div>
-                                <div>4.63%</div>
+                                <div>29 lines</div>
+                                <div>4.68%</div>
                             </small>
                         </div>
                     </section>
@@ -533,7 +533,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2021, 22:13:35 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 26 Nov 2021, 22:16:53 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
