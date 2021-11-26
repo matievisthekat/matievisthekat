@@ -7,7 +7,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: matievisthekat/metrics@plugin/poopmap
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -33,6 +33,7 @@ jobs:
           
           plugin_poopmap: yes
           plugin_poopmap_token: "15d71a6dc6682c75553ab48c2db4edc4"
+          plugin_poopmap_days: 30
           
           #plugin_habits: yes
           #plugin_habits_from: 500
