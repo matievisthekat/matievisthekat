@@ -7,29 +7,29 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: matievisthekat/metrics@plugin/poopmap
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "" #header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: Africa/Johannesburg
           config_padding: 0, 0
           
           # temp solution until Rust as RenderScript bug is fixed
-          #plugin_languages_aliases: RenderScript:Rust
+          plugin_languages_aliases: RenderScript:Rust
           
-          #plugin_languages: yes
-          #plugin_languages_details: percentage, lines
-          #plugin_languages_sections: most-used, recently-used
-          #plugin_languages_indepth: yes
-          #plugin_languages_ignored: tsx
-          #plugin_languages_limit: 8
-          #commits_authoring: matievisthekat@gmail.com
+          plugin_languages: yes
+          plugin_languages_details: percentage, lines
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_ignored: tsx
+          plugin_languages_limit: 8
+          commits_authoring: matievisthekat@gmail.com
           
-          #plugin_followup: yes
-          #plugin_followup_sections: user
+          plugin_followup: yes
+          plugin_followup_sections: user
           
-          #plugin_lines: yes
+          plugin_lines: yes
           
           plugin_poopmap: yes
           plugin_poopmap_token: "15d71a6dc6682c75553ab48c2db4edc4"
