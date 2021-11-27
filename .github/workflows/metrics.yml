@@ -33,7 +33,7 @@ jobs:
           
           plugin_poopmap: yes
           plugin_poopmap_token: "15d71a6dc6682c75553ab48c2db4edc4"
-          plugin_poopmap_days: 30
+          plugin_poopmap_days: 180
           
           #plugin_code: yes
           #plugin_code_lines: 30               # Only display snippets with less than 12 lines
