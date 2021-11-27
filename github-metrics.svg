@@ -453,10 +453,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="395.69834581772784" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="395.69834581772784" y="0" width="25.106897627965044" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="420.8052434456929" y="0" width="23.41994382022472" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="444.2251872659176" y="0" width="15.774812734082397" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="399.9482620418276" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="399.9482620418276" y="0" width="23.447496903009547" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="423.39575894483716" y="0" width="21.872039641477812" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="445.26779858631494" y="0" width="14.732201413685054" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -468,8 +468,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>1.01k lines</div>
-                                <div>86.02%</div>
+                                <div>1.09k lines</div>
+                                <div>86.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -481,7 +481,7 @@
                             </div>
                             <small>
                                 <div>33 lines</div>
-                                <div>5.09%</div>
+                                <div>4.75%</div>
                             </small>
                         </div>
                     </section>
@@ -495,7 +495,7 @@
                             </div>
                             <small>
                                 <div>33 lines</div>
-                                <div>5.46%</div>
+                                <div>5.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -507,7 +507,7 @@
                             </div>
                             <small>
                                 <div>29 lines</div>
-                                <div>3.43%</div>
+                                <div>3.2%</div>
                             </small>
                         </div>
                     </section>
@@ -555,8 +555,8 @@
                                 06
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 07
                             </div>
                             <div class="entry">
@@ -645,7 +645,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2021, 06:16:26 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 27 Nov 2021, 07:11:21 (timezone Africa/Johannesburg) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
