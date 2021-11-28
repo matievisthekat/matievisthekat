@@ -23,9 +23,9 @@
 <!--START_SECTION:movies-->
 | one of my favourite movies | my most recently watched movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BYzE3ZDg0OTktYjlhNC00ZmQ0LTk0YjktMDE1ZWE2YjIwMjk4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt0144084/) |
-| [Saint Maud](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [American Psycho](https://imdb.com/title/tt0144084/) |
-| Drama, Horror, Mystery | my rating: 8/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt0144084/) |
+| [The Autopsy of Jane Doe](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [American Psycho](https://imdb.com/title/tt0144084/) |
+| Horror, Mystery, Thriller | my rating: 8/10 |
 
 <sup>last updated: Sun Nov 28 2021</sup>
 <!--END_SECTION:movies-->
