@@ -40,7 +40,7 @@ async function fetchFavourite() {
   const avgRating = $("div.ipl-rating-star.small > span.ipl-rating-star__rating")[0].children[0].data;
   const link = "https://imdb.com" + $("div.lister-item-image > a")[0].attribs.href;
 
-  return { title, img, desc, genre, link };
+  return { title, img, desc, genre, avgRating, link };
 }
 
 fetchFavourite().then((favourite) => {
@@ -51,6 +51,31 @@ fetchFavourite().then((favourite) => {
       path: "README.md",
     });
 
+    const markers = [
+      "favourite.title",
+      "favourite.img",
+      "favourite.link",
+      "favourite.desc",
+      "favourite.genre",
+      "favourite.avgRating",
+
+      "recent.title",
+      "recent.img",
+      "recent.link",
+      "recent.rating",
+    ];
+
+    let newReadme = Buffer.from(readme.data.content, "base64").toString("ascii");
+    markers.forEach((m) => {
+      const movie = m.split(".")[0];
+      const prop = m.split(".")[1];
+
+      newReadme = newReadme.replace(
+        new RegExp(`<!\-\-\-\s*${m}\:start\s*\-\-\->.*<!\-\-\-\s*${m}:end\s*\-\-\->`, "sgi"),
+        movie === "favourite" ? favourite[prop] : recent[prop]
+      );
+    });
+
     await kit.repos.createOrUpdateFileContents({
       owner: "matievisthekat",
       repo: "matievisthekat",
@@ -59,19 +84,9 @@ fetchFavourite().then((favourite) => {
       message: "update movies",
       committer: {
         name: "GitHub Actions",
-        email: "41898282+github-actions[bot]@users.noreply.github.com"
+        email: "41898282+github-actions[bot]@users.noreply.github.com",
       },
-      content: Buffer.from(
-        `${Buffer.from(readme.data.content, "base64").toString().split("<!--START_SECTION:movies-->")[0]}<!--START_SECTION:movies-->
-| one of my favourite movies | my most recently watched movie |
-| :---: | :---: |
-| [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
-| [${favourite.title}](${favourite.link}) | [${recent.title}](${recent.link}) |
-| ${favourite.genre} | my rating: ${recent.rating}/10 |
-
-<sup>last updated: ${new Date().toDateString()}</sup>
-<!--END_SECTION:movies-->${Buffer.from(readme.data.content, "base64").toString().split("<!--END_SECTION:movies-->")[1]}`
-      ).toString("base64"),
+      content: Buffer.from(newReadme).toString("base64"),
     });
   });
 });
