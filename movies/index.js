@@ -71,8 +71,8 @@ fetchFavourite().then((favourite) => {
       const prop = m.split(".")[1];
 
       newReadme = newReadme.replace(
-        new RegExp(`<!\-\-\-\s*${m}\:start\s*\-\-\->.*<!\-\-\-\s*${m}:end\s*\-\-\->`, "sgi"),
-        `<!---${m}:start--->${movie === "favourite" ? favourite[prop] : recent[prop]}<!---${m}:end--->`
+        new RegExp(`<!\-\-\s*${m}\:start\s*\-\-\->.*<!\-\-\-\s*${m}:end\s*\-\->`, "sgi"),
+        `<!--${m}:start-->${movie === "favourite" ? favourite[prop] : recent[prop]}<!--${m}:end-->`
       );
     });
 
