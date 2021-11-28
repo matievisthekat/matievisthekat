@@ -21,12 +21,12 @@
 ---
 
 ## movies
-i recently watched <!--recent.link:start text="recent.title"--><!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
+i recently watched <!--recent.link:start text="recent.title"-->[recent.title](https://imdb.com/title/tt0144084/ "imdb page")<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-[**<!--favourite.title:start-->[Rec]<!--favourite.title:end-->**](<!--favourite.link:start-->https://imdb.com/title/tt7557108/?ref_=ttls_li_i<!--favourite.link:end--> "imdb link") is one of my favourite movies. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
+[**<!--favourite.title:start-->The Autopsy of Jane Doe<!--favourite.title:end-->**](<!--favourite.link:start-->https://imdb.com/title/tt7557108/?ref_=ttls_li_i<!--favourite.link:end--> "imdb link") is one of my favourite movies. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <small>
-  <!--favourite.desc:start-->A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.<!--favourite.desc:end-->  
+  <!--favourite.desc:start-->A father and son, both coroners, are pulled into a complex mystery while attempting to identify the body of a young woman, who was apparently harboring dark secrets.<!--favourite.desc:end-->  
 </small>
   
 </div>
@@ -123,3 +123,6 @@ i have also been honing my Next.js skills by creating a <a href="https://github.
 
 
 <small>movies last updated: Sun Nov 28 2021 17:19:11 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:19:53 GMT+0200 (South Africa Standard Time)</small>
