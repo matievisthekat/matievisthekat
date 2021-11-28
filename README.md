@@ -21,7 +21,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->0 10 2021<!--common.timestamp:end-->*
+*last updated: <!--common.timestamp:start-->0 november 2021<!--common.timestamp:end-->*
 
 i recently watched <!--recent.link:start text="recent.title"-->[American Psycho](https://imdb.com/title/tt0144084/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
