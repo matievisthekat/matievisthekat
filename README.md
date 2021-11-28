@@ -7,7 +7,8 @@
 
 ---
 
-[<img float="left" src="https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/github-metrics.svg" alt="overall metrics" />](https://github.com/matievisthekat/matievisthekat)
+![overall metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/overall-metrics.svg "Overall Metrics")
+![recent metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/recent-metrics.svg "Recent Metrics")
 
 ---
 
