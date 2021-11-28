@@ -21,13 +21,13 @@
 ---
 
 ## movies
-i recently watched <!--recent.link:start text='<!--recent.title:start-->American Psycho<!--recent.title:end-->](https://imdb.com/title/tt0144084/ "imdb page")<!--recent.link:end--> and i give it a rating of **<!-+recent.rating:start-+>8<!-+recent.rating:end-+>/10**
+i recently watched <!--recent.link:start text="recent.title"-->[American Psycho](https://imdb.com/title/tt0144084/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-[**<!--favourite.title:start-->Room<!--favourite.title:end-->**](<!--favourite.link:start-->https://imdb.com/title/tt7557108/?ref_=ttls_li_i<!--favourite.link:end--> "imdb link") is one of my favourite movies. it is a **<!--favourite.genre:start-->Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Room](https://imdb.com/title/tt7557108/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
 
-<small>
+<code>
   <!--favourite.desc:start-->Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.<!--favourite.desc:end-->  
-</small>
+</code>
   
 </div>
 
@@ -97,3 +97,68 @@ i have also been honing my Next.js skills by creating a <a href="https://github.
 <small>movies last updated: Sun Nov 28 2021 16:55:59 GMT+0200 (South Africa Standard Time)</small>
 
 <small>movies last updated: Sun Nov 28 2021 16:56:47 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 16:59:46 GMT+0200 (South Africa Standard Time)</small>
+
+
+
+<small>movies last updated: Sun Nov 28 2021 17:01:44 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:03:55 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:06:11 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:09:07 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:10:51 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 17:12:23 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:13:37 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:19:11 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:19:53 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 17:20:46 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 17:21:33 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:22:33 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:24:09 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:26:04 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 17:26:24 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:27:33 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 17:27:56 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:29:13 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:30:11 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:30:45 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 17:31:54 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 17:38:53 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 17:39:16 GMT+0200 (South Africa Standard Time)</small>
