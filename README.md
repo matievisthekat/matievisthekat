@@ -26,7 +26,7 @@ i recently watched [**<!--recent.title:start-->American Psycho<!--recent.title:e
 [**<!--favourite.title:start-->[Rec]<!--favourite.title:end-->**](<!--favourite.link:start--><!---favourite.link:end--> "imdb link") is one of my favourite movies. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <small>
-  <!--favourite.dev:start--><!--favourite.dev:end-->  
+  <!--favourite.desc:start--><!--favourite.desc:end-->  
 </small>
   
 </div>
