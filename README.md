@@ -21,9 +21,9 @@
 ---
 
 ## movies
-i recently watched <!--recent.link:start text="recent.title-->[American Psycho](https://imdb.com/title/tt0144084/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
+i recently watched <!--recent.link:start text="recent.title"-->[American Psycho](https://imdb.com/title/tt0144084/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-<!--favourite.link:start text="favourite.title-->[Saint Maud](https://imdb.com/title/tt7557108/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourite movies. it is a **<!--favourite.genre:start-->Drama, Horror, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
+<!--favourite.link:start text="favourite.title"-->[Saint Maud](https://imdb.com/title/tt7557108/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourite movies. it is a **<!--favourite.genre:start-->Drama, Horror, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <small>
   <!--favourite.desc:start-->Follows a pious nurse who becomes dangerously obsessed with saving the soul of her dying patient.<!--favourite.desc:end-->  
