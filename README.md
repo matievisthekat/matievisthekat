@@ -7,8 +7,7 @@
 
 ---
 
-![overall metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/overall-metrics.svg "Overall Metrics")
-![recent metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/recent-metrics.svg "Recent Metrics")
+![overall metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/overall-metrics.svg "Overall Metrics") ![recent metrics](https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/recent-metrics.svg "Recent Metrics")
 
 ---
 
