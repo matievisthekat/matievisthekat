@@ -37,8 +37,8 @@ async function fetchFavourite() {
   const img = $("div.lister-item-image > a > img", node)[0].attribs.loadlate;
   const desc = $("div.lister-item-content > p", node)[1].children[0].data.trim();
   const genre = $("div.lister-item-content > p.text-muted.text-small > span.genre", node)[0].children[0].data.trim();
-  const avgRating = $("div.ipl-rating-star.small > span.ipl-rating-star__rating")[0].children[0].data;
-  const link = "https://imdb.com" + $("div.lister-item-image > a")[0].attribs.href;
+  const avgRating = $("span.ipl-rating-star__rating", node)[0].children[0].data;
+  const link = "https://imdb.com" + $("div.lister-item-image > a", node)[0].attribs.href;
 
   return { title, img, desc, genre, avgRating, link };
 }
@@ -83,6 +83,8 @@ fetchFavourite().then((favourite) => {
       const match = newReadme.match(regex) ?? [""];
       let text = isLink ? (match[0].match(/\".*\"/) ?? [""])[0].replace(/\"/g, "") : "";
       if (text.endsWith(".title")) text = movie.title;
+
+      console.log(m, regex.test(newReadme), match[0]);
 
       newReadme = newReadme
         .replace(/\\/g, "")
