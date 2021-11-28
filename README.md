@@ -20,7 +20,14 @@
 
 ---
 
-Saint Maud
+## movies
+i recently watched [**<!--recent.title:start--><!--recent.title:end--> **](<!--recent.link:start--><!--recent.link:end--> "imdb link") and i give it a rating of **<!--recent.rating:start--><!--recent.rating:end-->/10**
+
+[**<!--favourite.title:start--><!--favourite.title:end-->**](<!--favourite.link:start--><!---favourite.link:end--> "imdb link") is one of my favourite movies. it is a **<!--favourite.genre:start--><!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start--><!--favourite.avgRating:end-->/10**. here's a little description:
+
+<small>
+  <!--favourite.dev:start--><!--favourite.dev:end-->  
+</small>
   
 </div>
 
