@@ -14,9 +14,9 @@
 <!--START_SECTION:movies-->
 | One of My Favourite Movies | My Most Recently Watched Movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt0144084/) |
-| [Requiem for a Dream](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [American Psycho](https://imdb.com/title/tt0144084/) |
-| Drama | My rating: 8/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt0144084/) |
+| [Side Effects](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [American Psycho](https://imdb.com/title/tt0144084/) |
+| Crime, Drama, Mystery | My rating: 8/10 |
 
 <sup>last updated: Sun Nov 28 2021</sup>
 
