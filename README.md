@@ -23,10 +23,10 @@
 ## movies
 i recently watched <!--recent.link:start text="recent.title"-->[American Psycho](https://imdb.com/title/tt0144084/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-<!--favourite.link:start text="favourite.title"-->[Side Effects](https://imdb.com/title/tt7557108/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourite movies. it is a **<!--favourite.genre:start-->Crime, Drama, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
+<!--favourite.link:start text="favourite.title"-->[[Rec]](https://imdb.com/title/tt7557108/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourite movies. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <small>
-  <!--favourite.desc:start-->A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects.<!--favourite.desc:end-->  
+  <!--favourite.desc:start-->A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.<!--favourite.desc:end-->  
 </small>
   
 </div>
@@ -155,3 +155,5 @@ i have also been honing my Next.js skills by creating a <a href="https://github.
 
 
 <small>movies last updated: Sun Nov 28 2021 17:30:45 GMT+0200 (South Africa Standard Time)</small>
+
+<small>movies last updated: Sun Nov 28 2021 17:31:54 GMT+0200 (South Africa Standard Time)</small>
