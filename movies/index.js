@@ -62,14 +62,13 @@ fetchFavourite().then((favourite) => {
       },
       content: Buffer.from(
         `${Buffer.from(readme.data.content, "base64").toString().split("<!--START_SECTION:movies-->")[0]}<!--START_SECTION:movies-->
-| One of My Favourite Movies | My Most Recently Watched Movie |
+| one of my favourite movies | my most recently watched movie |
 | :---: | :---: |
 | [![Movie cover](${favourite.img})](${favourite.link}) | [![Movie cover](${recent.img})](${recent.link}) |
 | [${favourite.title}](${favourite.link}) | [${recent.title}](${recent.link}) |
-| ${favourite.genre} | My rating: ${recent.rating}/10 |
+| ${favourite.genre} | my rating: ${recent.rating}/10 |
 
 <sup>last updated: ${new Date().toDateString()}</sup>
-
 <!--END_SECTION:movies-->${Buffer.from(readme.data.content, "base64").toString().split("<!--END_SECTION:movies-->")[1]}`
       ).toString("base64"),
     });
