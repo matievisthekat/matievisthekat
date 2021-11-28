@@ -1,46 +1,69 @@
-<div align="center">
-  
-  [<img src="images/twitter.png" width="32" />](https://twitter.com/matievisthekat "my twitter")
-  [<img src="images/linkedin.png" width="32" />](https://www.linkedin.com/in/matievisthekat "my linkedin")
-  [<img src="images/email.png" width="32" />](mailto:matievisthekat@gmail.com "send me an email")
-  [<img src="images/imdb.png" width="32" />](https://www.imdb.com/user/ur122151934 "my imdb")
-  [<img src="images/instagram.png" width="32" />](https://www.instagram.com/matievisthekat "my instagram")
-  [<img src="images/reddit.png" width="32" />](https://reddit.com/u/MatievisTheKat "my reddit")
-  [<img src="images/youtube.png" width="32" />](https://www.youtube.com/channel/UCMgFIRIW3WaAotLMqoFFTTw "my youtube channel")
-  
-  <h3>hello there</h3>
-  
-  my name is Matthew Stead, i'm 16 years old and i've been coding since i was 10. [more info](#timeline)
-
-</div>
-
----
-
-<img width="48%" src="https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/overall-metrics.svg" alt="Overall Metrics" /> <img width="48%" src="https://raw.githubusercontent.com/matievisthekat/matievisthekat/master/recent-metrics.svg" alt="Recent Metrics" />
-
----
-
-<!--START_SECTION:movies-->
-| one of my favourite movies | my most recently watched movie |
-| :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt0144084/) |
-| [Hell or High Water](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [American Psycho](https://imdb.com/title/tt0144084/) |
-| Action, Crime, Drama | my rating: 8/10 |
-
-<sup>last updated: Sun Nov 28 2021</sup>
-<!--END_SECTION:movies-->
-  
-</div>
-
-<h4 id="timeline">timeline</h4>
-my introduction to programming was Khan Academy's JavaScript course. i started it purely because my older brother was doing it and i wanted more than anything to be just like him.
-
-the first actual things i created in JavaScript were discord bots and NodeJS web APIs.
-
-after that I got into a load of web development. mostly React, but a bit of Vue and Svelte as well.
-
-i tried to create mobile apps in React Native, but decided i only liked React for the web. so i learnt Dart and started creating apps using Flutter.
-
-recently i've been learning Ruby and Rust. the projects I'm creating to learn Rust: <a href="https://github.com/matievisthekat/chum" target="_blank">Chum, a simpler alternative to Git</a>, and Ruby: the API for <a href="https://github.com/TrailBuddies" target="_blank">Trail Buddies, a mobile app to find new friends to hike with</a>
-
-i have also been honing my Next.js skills by creating a <a href="https://github.com/matievisthekat/spotify-playlist-generator" target="_blank">Spotify Playlist Generator, create playlists based on audio features (dancability, valence, temp, etc..)</a>
+PGRpdiBhbGlnbj0iY2VudGVyIj4KICAKICBbPGltZyBzcmM9ImltYWdlcy90
+d2l0dGVyLnBuZyIgd2lkdGg9IjMyIiAvPl0oaHR0cHM6Ly90d2l0dGVyLmNv
+bS9tYXRpZXZpc3RoZWthdCAibXkgdHdpdHRlciIpCiAgWzxpbWcgc3JjPSJp
+bWFnZXMvbGlua2VkaW4ucG5nIiB3aWR0aD0iMzIiIC8+XShodHRwczovL3d3
+dy5saW5rZWRpbi5jb20vaW4vbWF0aWV2aXN0aGVrYXQgIm15IGxpbmtlZGlu
+IikKICBbPGltZyBzcmM9ImltYWdlcy9lbWFpbC5wbmciIHdpZHRoPSIzMiIg
+Lz5dKG1haWx0bzptYXRpZXZpc3RoZWthdEBnbWFpbC5jb20gInNlbmQgbWUg
+YW4gZW1haWwiKQogIFs8aW1nIHNyYz0iaW1hZ2VzL2ltZGIucG5nIiB3aWR0
+aD0iMzIiIC8+XShodHRwczovL3d3dy5pbWRiLmNvbS91c2VyL3VyMTIyMTUx
+OTM0ICJteSBpbWRiIikKICBbPGltZyBzcmM9ImltYWdlcy9pbnN0YWdyYW0u
+cG5nIiB3aWR0aD0iMzIiIC8+XShodHRwczovL3d3dy5pbnN0YWdyYW0uY29t
+L21hdGlldmlzdGhla2F0ICJteSBpbnN0YWdyYW0iKQogIFs8aW1nIHNyYz0i
+aW1hZ2VzL3JlZGRpdC5wbmciIHdpZHRoPSIzMiIgLz5dKGh0dHBzOi8vcmVk
+ZGl0LmNvbS91L01hdGlldmlzVGhlS2F0ICJteSByZWRkaXQiKQogIFs8aW1n
+IHNyYz0iaW1hZ2VzL3lvdXR1YmUucG5nIiB3aWR0aD0iMzIiIC8+XShodHRw
+czovL3d3dy55b3V0dWJlLmNvbS9jaGFubmVsL1VDTWdGSVJJVzNXYUFvdExN
+cW9GRlRUdyAibXkgeW91dHViZSBjaGFubmVsIikKICAKICA8aDM+aGVsbG8g
+dGhlcmU8L2gzPgogIAogIG15IG5hbWUgaXMgTWF0dGhldyBTdGVhZCwgaSdt
+IDE2IHllYXJzIG9sZCBhbmQgaSd2ZSBiZWVuIGNvZGluZyBzaW5jZSBpIHdh
+cyAxMC4gW21vcmUgaW5mb10oI3RpbWVsaW5lKQoKPC9kaXY+CgotLS0KCjxp
+bWcgd2lkdGg9IjQ4JSIgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29u
+dGVudC5jb20vbWF0aWV2aXN0aGVrYXQvbWF0aWV2aXN0aGVrYXQvbWFzdGVy
+L292ZXJhbGwtbWV0cmljcy5zdmciIGFsdD0iT3ZlcmFsbCBNZXRyaWNzIiAv
+PiA8aW1nIHdpZHRoPSI0OCUiIHNyYz0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNl
+cmNvbnRlbnQuY29tL21hdGlldmlzdGhla2F0L21hdGlldmlzdGhla2F0L21h
+c3Rlci9yZWNlbnQtbWV0cmljcy5zdmciIGFsdD0iUmVjZW50IE1ldHJpY3Mi
+IC8+CgotLS0KCjwhLS1TVEFSVF9TRUNUSU9OOm1vdmllcy0tPgp8IG9uZSBv
+ZiBteSBmYXZvdXJpdGUgbW92aWVzIHwgbXkgbW9zdCByZWNlbnRseSB3YXRj
+aGVkIG1vdmllIHwKfCA6LS0tOiB8IDotLS06IHwKfCBbIVtNb3ZpZSBjb3Zl
+cl0oaHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL00vTVY1Qk1U
+ZzROREExT1RBNU5GNUJNbDVCYW5CblhrRnRaVGd3TURRMk1ETTVPREVALl9W
+MV9VWTIwOV9DUjAsMCwxNDAsMjA5X0FMXy5qcGcpXShodHRwczovL2ltZGIu
+Y29tL3RpdGxlL3R0NzU1NzEwOC8/cmVmXz10dGxzX2xpX2kpIHwgWyFbTW92
+aWUgY292ZXJdKGh0dHBzOi8vbS5tZWRpYS1hbWF6b24uY29tL2ltYWdlcy9N
+L01WNUJaVE0yWkdKbU5qUXROMlV5T1MwME5qY3hMV0ZqTURrdE1ERTJOek15
+TlRabFpUQmlYa0V5WGtGcWNHZGVRWFZ5Tnprd01qUTVOek1ALl9WMV9TWDEw
+NV9DUjAsMCwxMDUsMTUzXy5qcGcpXShodHRwczovL2ltZGIuY29tL3RpdGxl
+L3R0MDE0NDA4NC8pIHwKfCBbSGVsbCBvciBIaWdoIFdhdGVyXShodHRwczov
+L2ltZGIuY29tL3RpdGxlL3R0NzU1NzEwOC8/cmVmXz10dGxzX2xpX2kpIHwg
+W0FtZXJpY2FuIFBzeWNob10oaHR0cHM6Ly9pbWRiLmNvbS90aXRsZS90dDAx
+NDQwODQvKSB8CnwgQWN0aW9uLCBDcmltZSwgRHJhbWEgfCBteSByYXRpbmc6
+IDgvMTAgfAoKPHN1cD5sYXN0IHVwZGF0ZWQ6IFN1biBOb3YgMjggMjAyMTwv
+c3VwPgo8IS0tRU5EX1NFQ1RJT046bW92aWVzLS0+CiAgCjwvZGl2PgoKPGg0
+IGlkPSJ0aW1lbGluZSI+dGltZWxpbmU8L2g0PgpteSBpbnRyb2R1Y3Rpb24g
+dG8gcHJvZ3JhbW1pbmcgd2FzIEtoYW4gQWNhZGVteSdzIEphdmFTY3JpcHQg
+Y291cnNlLiBpIHN0YXJ0ZWQgaXQgcHVyZWx5IGJlY2F1c2UgbXkgb2xkZXIg
+YnJvdGhlciB3YXMgZG9pbmcgaXQgYW5kIGkgd2FudGVkIG1vcmUgdGhhbiBh
+bnl0aGluZyB0byBiZSBqdXN0IGxpa2UgaGltLgoKdGhlIGZpcnN0IGFjdHVh
+bCB0aGluZ3MgaSBjcmVhdGVkIGluIEphdmFTY3JpcHQgd2VyZSBkaXNjb3Jk
+IGJvdHMgYW5kIE5vZGVKUyB3ZWIgQVBJcy4KCmFmdGVyIHRoYXQgSSBnb3Qg
+aW50byBhIGxvYWQgb2Ygd2ViIGRldmVsb3BtZW50LiBtb3N0bHkgUmVhY3Qs
+IGJ1dCBhIGJpdCBvZiBWdWUgYW5kIFN2ZWx0ZSBhcyB3ZWxsLgoKaSB0cmll
+ZCB0byBjcmVhdGUgbW9iaWxlIGFwcHMgaW4gUmVhY3QgTmF0aXZlLCBidXQg
+ZGVjaWRlZCBpIG9ubHkgbGlrZWQgUmVhY3QgZm9yIHRoZSB3ZWIuIHNvIGkg
+bGVhcm50IERhcnQgYW5kIHN0YXJ0ZWQgY3JlYXRpbmcgYXBwcyB1c2luZyBG
+bHV0dGVyLgoKcmVjZW50bHkgaSd2ZSBiZWVuIGxlYXJuaW5nIFJ1YnkgYW5k
+IFJ1c3QuIHRoZSBwcm9qZWN0cyBJJ20gY3JlYXRpbmcgdG8gbGVhcm4gUnVz
+dDogPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21hdGlldmlzdGhla2F0
+L2NodW0iIHRhcmdldD0iX2JsYW5rIj5DaHVtLCBhIHNpbXBsZXIgYWx0ZXJu
+YXRpdmUgdG8gR2l0PC9hPiwgYW5kIFJ1Ynk6IHRoZSBBUEkgZm9yIDxhIGhy
+ZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9UcmFpbEJ1ZGRpZXMiIHRhcmdldD0i
+X2JsYW5rIj5UcmFpbCBCdWRkaWVzLCBhIG1vYmlsZSBhcHAgdG8gZmluZCBu
+ZXcgZnJpZW5kcyB0byBoaWtlIHdpdGg8L2E+CgppIGhhdmUgYWxzbyBiZWVu
+IGhvbmluZyBteSBOZXh0LmpzIHNraWxscyBieSBjcmVhdGluZyBhIDxhIGhy
+ZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXRpZXZpc3RoZWthdC9zcG90aWZ5
+LXBsYXlsaXN0LWdlbmVyYXRvciIgdGFyZ2V0PSJfYmxhbmsiPlNwb3RpZnkg
+UGxheWxpc3QgR2VuZXJhdG9yLCBjcmVhdGUgcGxheWxpc3RzIGJhc2VkIG9u
+IGF1ZGlvIGZlYXR1cmVzIChkYW5jYWJpbGl0eSwgdmFsZW5jZSwgdGVtcCwg
+ZXRjLi4pPC9hPgo=
