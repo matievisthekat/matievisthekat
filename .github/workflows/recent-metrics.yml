@@ -16,14 +16,6 @@ jobs:
           config_padding: 0, 0
           filename: recent-metrics.svg
           
-          plugin_languages: yes
-          plugin_languages_details: lines
-          plugin_languages_sections: recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_ignored: tsx
-          plugin_languages_limit: 6
-          commits_authoring: matievisthekat@gmail.com
-          
           plugin_code: yes
           plugin_code_lines: 30               # Only display snippets with less than 12 lines
           plugin_code_load: 1000              # Fetch 100 events from activity
