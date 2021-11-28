@@ -63,11 +63,14 @@ fetchFavourite().then((favourite) => {
       "recent.title",
       "recent.img",
       "recent.rating",
+
+      "common.timestamp",
     ];
 
     let newReadme = Buffer.from(readme.data.content, "base64").toString("ascii");
     markers.forEach((m) => {
       const movieString = m.split(".")[0];
+
       const movie = movieString === "favourite" ? favourite : recent;
       const prop = m.split(".")[1];
       const value = movie[prop];
@@ -86,7 +89,11 @@ fetchFavourite().then((favourite) => {
         .replace(
           regex,
           `<!--${m}:start${isLink ? ` text="${text === movie.title ? `${movieString}.title` : text}"` : ""}-->${
-            isLink ? `[${text}](${value} 'imdb page')` : value
+            isLink
+              ? `[${text}](${value} 'imdb page')`
+              : m === "common.timestamp"
+              ? `${new Date().getDay()} ${new Date().getMonth()} ${new Date().getFullYear()}`.toLowerCase()
+              : value
           }<!--${m}:end-->`
         );
     });
@@ -101,7 +108,7 @@ fetchFavourite().then((favourite) => {
         name: "GitHub Actions",
         email: "41898282+github-actions[bot]@users.noreply.github.com",
       },
-      content: Buffer.from(`${newReadme}\n\n<small>movies last updated: ${new Date().toString()}</small>`).toString(
+      content: Buffer.from(newReadme).toString(
         "base64"
       ),
     });
