@@ -8,9 +8,9 @@
   [<img src="images/reddit.png" width="32" />](https://reddit.com/u/MatievisTheKat "my reddit")
   [<img src="images/youtube.png" width="32" />](https://www.youtube.com/channel/UCMgFIRIW3WaAotLMqoFFTTw "my youtube channel")
   
-  <h3>Hello There</h3>
+  <h3>hello there</h3>
   
-  My name is Matthew Stead, I'm 16 years old and I've been coding since I was 10. [more info](#timeline)
+  my name is Matthew Stead, i'm 16 years old and i've been coding since i was 10. [more info](#timeline)
 
 </div>
 
@@ -33,15 +33,15 @@
   
 </div>
 
-<h4 id="timeline">Timeline</h4>
-My introduction to programming was Khan Academy's JavaScript course. I started it purely because my older brother was doing it and I wanted more than anything to be just like him.
+<h4 id="timeline">timeline</h4>
+my introduction to programming was Khan Academy's JavaScript course. i started it purely because my older brother was doing it and i wanted more than anything to be just like him.
 
-The first actual things I created in JavaScript were Discord bots and NodeJS web APIs.
+the first actual things i created in JavaScript were discord bots and NodeJS web APIs.
 
-After that I got into a load of web development. Mostly React, but a bit of Vue and Svelte as well.
+after that I got into a load of web development. mostly React, but a bit of Vue and Svelte as well.
 
-I tried to create mobile apps in React Native, but decided I only liked React for the web. So I learnt Dart and started creating apps using Flutter.
+i tried to create mobile apps in React Native, but decided i only liked React for the web. so i learnt Dart and started creating apps using Flutter.
 
-Recently I've been learning Ruby and Rust. The projects I'm creating to learn Rust: <a href="https://github.com/matievisthekat/chum" target="_blank">Chum, a simpler alternative to Git</a>, and Ruby: the API for <a href="https://github.com/TrailBuddies" target="_blank">Trail Buddies, a mobile app to find new friends to hike with</a>
+recently i've been learning Ruby and Rust. the projects I'm creating to learn Rust: <a href="https://github.com/matievisthekat/chum" target="_blank">Chum, a simpler alternative to Git</a>, and Ruby: the API for <a href="https://github.com/TrailBuddies" target="_blank">Trail Buddies, a mobile app to find new friends to hike with</a>
 
-I have also been honing my Next.js skills by creating <a href="https://github.com/matievisthekat/spotify-playlist-generator" target="_blank">a Spotify Playlist Generator, create playlists based on audio features (dancability, valence, temp, etc..)</a>
+i have also been honing my Next.js skills by creating a <a href="https://github.com/matievisthekat/spotify-playlist-generator" target="_blank">Spotify Playlist Generator, create playlists based on audio features (dancability, valence, temp, etc..)</a>
