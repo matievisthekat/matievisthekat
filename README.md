@@ -23,7 +23,7 @@
 ## movies
 i recently watched [**<!--recent.title:start-->American Psycho<!--recent.title:end-->**](<!--recent.link:start-->https://imdb.com/title/tt0144084/<!--recent.link:end--> "imdb link") and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-[**<!--favourite.title:start-->Saint Maud<!--favourite.title:end-->**](<!--favourite.link:start--><!--favourite.link:end--> "imdb link") is one of my favourite movies. it is a **<!--favourite.genre:start-->Drama, Horror, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
+[**<!--favourite.title:start-->Saint Maud<!--favourite.title:end-->**](<!--favourite.link:start-->https://imdb.com/title/tt7557108/?ref_=ttls_li_i<!--favourite.link:end--> "imdb link") is one of my favourite movies. it is a **<!--favourite.genre:start-->Drama, Horror, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <small>
   <!--favourite.desc:start-->Follows a pious nurse who becomes dangerously obsessed with saving the soul of her dying patient.<!--favourite.desc:end-->  
@@ -57,3 +57,6 @@ i have also been honing my Next.js skills by creating a <a href="https://github.
 <small>movies last updated: Sun Nov 28 2021 16:17:03 GMT+0200 (South Africa Standard Time)</small>
 
 <small>movies last updated: Sun Nov 28 2021 16:17:29 GMT+0200 (South Africa Standard Time)</small>
+
+
+<small>movies last updated: Sun Nov 28 2021 16:18:11 GMT+0200 (South Africa Standard Time)</small>
