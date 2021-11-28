@@ -14,6 +14,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Johannesburg
           config_padding: 0, 0
+          filename: overall-metrics.svg
           
           # temp solution until Rust as RenderScript bug is fixed
           plugin_languages_aliases: RenderScript:Rust
