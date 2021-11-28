@@ -52,28 +52,43 @@ fetchFavourite().then((favourite) => {
     });
 
     const markers = [
+      "favourite.link",
       "favourite.title",
       "favourite.img",
-      "favourite.link",
       "favourite.desc",
       "favourite.genre",
       "favourite.avgRating",
 
+      "recent.link",
       "recent.title",
       "recent.img",
-      "recent.link",
       "recent.rating",
     ];
 
     let newReadme = Buffer.from(readme.data.content, "base64").toString("ascii");
     markers.forEach((m) => {
-      const movie = m.split(".")[0];
+      const movieString = m.split(".")[0];
+      const movie = movieString === "favourite" ? favourite : recent;
       const prop = m.split(".")[1];
-
-      newReadme = newReadme.replace(
-        new RegExp(`<!\-\-\s*${m}\:start\s*\-\-\->.*<!\-\-\-\s*${m}:end\s*\-\->`, "sgi"),
-        `<!--${m}:start-->${movie === "favourite" ? favourite[prop] : recent[prop]}<!--${m}:end-->`
+      const value = movie[prop];
+      const isLink = m.endsWith(".link");
+      const regex = new RegExp(
+        `<!-{1,3}\\s*${m}:start${isLink ? ' text=".*"' : ""}\\s*-{1,3}>.*<!-{1,3}\\s*${m}:end\\s*-{1,3}>`,
+        "sgi"
       );
+
+      const match = newReadme.match(regex) ?? [""];
+      let text = isLink ? (match[0].match(/\".*\"/) ?? [""])[0].replace(/\"/g, "") : "";
+      if (text.endsWith(".title")) text = movie.title;
+
+      newReadme = newReadme
+        .replace(/\\/g, "")
+        .replace(
+          regex,
+          `<!--${m}:start${isLink ? ` text="${text === movie.title ? `${movieString}.title` : text}"` : ""}-->${
+            isLink ? `[${text}](${value} 'imdb page')` : value
+          }<!--${m}:end-->`
+        );
     });
 
     await kit.repos.createOrUpdateFileContents({
