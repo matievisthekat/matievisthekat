@@ -23,9 +23,9 @@
 <!--START_SECTION:movies-->
 | one of my favourite movies | my most recently watched movie |
 | :---: | :---: |
-| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt0144084/) |
-| [The Autopsy of Jane Doe](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [American Psycho](https://imdb.com/title/tt0144084/) |
-| Horror, Mystery, Thriller | my rating: 8/10 |
+| [![Movie cover](https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_UY209_CR0,0,140,209_AL_.jpg)](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [![Movie cover](https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX105_CR0,0,105,153_.jpg)](https://imdb.com/title/tt0144084/) |
+| [Hell or High Water](https://imdb.com/title/tt7557108/?ref_=ttls_li_i) | [American Psycho](https://imdb.com/title/tt0144084/) |
+| Action, Crime, Drama | my rating: 8/10 |
 
 <sup>last updated: Sun Nov 28 2021</sup>
 <!--END_SECTION:movies-->
