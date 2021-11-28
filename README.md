@@ -1,4 +1,13 @@
 <div align="center">
+  
+  [<img src="images/twitter.png" width="32" />](https://twitter.com/matievisthekat "my twitter")
+  [<img src="images/linkedin.png" width="32" />](https://www.linkedin.com/in/matievisthekat "my linkedin")
+  [<img src="images/email.png" width="32" />](mailto:matievisthekat@gmail.com "send me an email")
+  [<img src="images/imdb.png" width="32" />](https://www.imdb.com/user/ur122151934 "my imdb")
+  [<img src="images/instagram.png" width="32" />](https://www.instagram.com/matievisthekat "my instagram")
+  [<img src="images/reddit.png" width="32" />](https://reddit.com/u/MatievisTheKat "my reddit")
+  [<img src="images/youtube.png" width="32" />](https://www.youtube.com/channel/UCMgFIRIW3WaAotLMqoFFTTw "my youtube channel")
+  
   <h3>Hello There</h3>
   
   My name is Matthew Stead, I'm 16 years old and I've been coding since I was 10. [more info](#timeline)
