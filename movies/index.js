@@ -92,7 +92,7 @@ fetchFavourite().then((favourite) => {
             isLink
               ? `[${text}](${value} 'imdb page')`
               : m === "common.timestamp"
-              ? `${new Date().getDay()} ${new Date().getMonth()} ${new Date().getFullYear()}`.toLowerCase()
+              ? `${new Date().getDate()} ${new Date().toLocaleString("default", { month: "long" })} ${new Date().getFullYear()}`.toLowerCase()
               : value
           }<!--${m}:end-->`
         );
