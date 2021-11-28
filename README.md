@@ -8,7 +8,7 @@
   [<img src="images/reddit.png" width="32" />](https://reddit.com/u/MatievisTheKat "my reddit")
   [<img src="images/youtube.png" width="32" />](https://www.youtube.com/channel/UCMgFIRIW3WaAotLMqoFFTTw "my youtube channel")
   
-  <h3>hello there</h3>
+  # hello there
   
   my name is Matthew Stead, i'm 16 years old and i've been coding since i was 10. [more info](#timeline)
 
@@ -22,7 +22,7 @@
   
 </div>
 
-<h4 id="timeline">timeline</h4>
+<h2 id="timeline">timeline</h2>
 my introduction to programming was Khan Academy's JavaScript course. i started it purely because my older brother was doing it and i wanted more than anything to be just like him.
 
 the first actual things i created in JavaScript were discord bots and NodeJS web APIs.
