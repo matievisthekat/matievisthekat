@@ -1,8 +1,8 @@
-name: GitHub Metrics
+name: Overall Metrics
 on:
   workflow_dispatch:
   schedule: 
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -20,10 +20,10 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_details: percentage, lines
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_ignored: tsx
-          plugin_languages_limit: 8
+          plugin_languages_limit: 12
           commits_authoring: matievisthekat@gmail.com
           
           plugin_followup: yes
