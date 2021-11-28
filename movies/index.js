@@ -86,7 +86,9 @@ fetchFavourite().then((favourite) => {
         name: "GitHub Actions",
         email: "41898282+github-actions[bot]@users.noreply.github.com",
       },
-      content: Buffer.from(newReadme).toString("base64"),
+      content: Buffer.from(`${newReadme}\n\n<small>movies last updated: ${new Date().toString()}</small>`).toString(
+        "base64"
+      ),
     });
   });
 });
