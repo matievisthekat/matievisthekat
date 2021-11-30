@@ -25,11 +25,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[American Psycho](https://imdb.com/title/tt0144084/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Side Effects](https://imdb.com/title/tt2053463/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Drama, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.1<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Requiem for a Dream](https://imdb.com/title/tt0180093/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.3<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.<!--favourite.desc:end-->*
   
 </div>
 
