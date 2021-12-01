@@ -21,15 +21,15 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->30 november 2021<!--common.timestamp:end-->*
+*last updated: <!--common.timestamp:start-->1 december 2021<!--common.timestamp:end-->*
 
 i recently watched <!--recent.link:start text="recent.title"-->[American Psycho](https://imdb.com/title/tt0144084/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Room](https://imdb.com/title/tt3170832/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.1<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Requiem for a Dream](https://imdb.com/title/tt0180093/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.3<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.<!--favourite.desc:end-->*
   
 </div>
 
