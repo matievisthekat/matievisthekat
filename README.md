@@ -25,15 +25,15 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->4 december 2021<!--common.timestamp:end-->*
+*last updated: <!--common.timestamp:start-->5 december 2021<!--common.timestamp:end-->*
 
 i recently watched <!--recent.link:start text="recent.title"-->[American Psycho](https://imdb.com/title/tt0144084/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Requiem for a Dream](https://imdb.com/title/tt0180093/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.3<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Hell or High Water](https://imdb.com/title/tt2582782/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Action, Crime, Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.6<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.<!--favourite.desc:end-->*
   
 </div>
 
