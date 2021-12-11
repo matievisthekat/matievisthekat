@@ -21,7 +21,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->10 december 2021<!--common.timestamp:end-->*
+*last updated: <!--common.timestamp:start-->11 december 2021<!--common.timestamp:end-->*
 
 i recently watched <!--recent.link:start text="recent.title"-->[The International](https://imdb.com/title/tt0963178/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->7<!--recent.rating:end-->/10**
 
