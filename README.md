@@ -23,13 +23,13 @@
 ## movies
 *last updated: <!--common.timestamp:start-->14 december 2021<!--common.timestamp:end-->*
 
-i recently watched <!--recent.link:start text="recent.title"-->[Fight Club](https://imdb.com/title/tt0137523/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->9<!--recent.rating:end-->/10**
+i recently watched <!--recent.link:start text="recent.title"-->[The Billion Dollar Code](https://imdb.com/title/tt15392100/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Side Effects](https://imdb.com/title/tt2053463/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Drama, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.1<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[The Autopsy of Jane Doe](https://imdb.com/title/tt3289956/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.8<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A father and son, both coroners, are pulled into a complex mystery while attempting to identify the body of a young woman, who was apparently harboring dark secrets.<!--favourite.desc:end-->*
   
 </div>
 
