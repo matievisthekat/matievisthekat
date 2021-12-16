@@ -21,7 +21,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->15 december 2021<!--common.timestamp:end-->*
+*last updated: <!--common.timestamp:start-->16 december 2021<!--common.timestamp:end-->*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Avengers: Infinity War](https://imdb.com/title/tt4154756/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->6<!--recent.rating:end-->/10**
 
