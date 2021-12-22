@@ -16,10 +16,6 @@ jobs:
           config_padding: 0, 0
           filename: recent-metrics.svg
           
-          plugin_rss: yes
-          plugin_rss_source: https://blog.matievisthekat.dev/rss.xml
-          plugin_rss_limit: 3
-          
           plugin_habits: yes
           plugin_habits_from: 1000
           plugin_habits_days: 60
