@@ -16,9 +16,6 @@ jobs:
           config_padding: 0, 0
           filename: overall-metrics.svg
           
-          # temp solution until Rust as RenderScript bug is fixed
-          plugin_languages_aliases: RenderScript:Rust
-          
           plugin_traffic: yes
           
           plugin_music: yes
@@ -33,8 +30,9 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_ignored: tsx
+          plugin_languages_ignored: tsx, css
           plugin_languages_limit: 12
+          plugin_languages_aliases: RenderScript:Rust # temp solution until Rust as RenderScript bug is fixed
           commits_authoring: matievisthekat@gmail.com
           
           plugin_followup: yes
@@ -45,19 +43,3 @@ jobs:
           plugin_poopmap: yes
           plugin_poopmap_token: "15d71a6dc6682c75553ab48c2db4edc4"
           plugin_poopmap_days: 180
-          
-          #plugin_code: yes
-          #plugin_code_lines: 30               # Only display snippets with less than 12 lines
-          #plugin_code_load: 1000              # Fetch 100 events from activity
-          #plugin_code_visibility: public      # Only display snippets from public activity
-          
-          #plugin_habits: yes
-          #plugin_habits_from: 500
-          #plugin_habits_days: 60
-          #plugin_habits_facts: no
-          #plugin_habits_charts: yes
-          
-          #plugin_wakatime: yes
-          #plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          #plugin_wakatime_days: 7
-          #plugin_wakatime_sections: time, projects, editors, os
