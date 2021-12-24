@@ -20,7 +20,7 @@ jobs:
           git config --global user.name 'Github Actions'
           git pull --commit
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m '[badges] build css'
+          git diff --quiet && git diff --staged --quiet || git commit -m '[badges] build badge.svg'
       
       - name: Push origin master
         run: git push origin master
