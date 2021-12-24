@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-deno@v2
+      - uses: denoland/setup-deno@v1
 
       - name: Run badges/index.ts
-        runs: cd badges && deno run --allow-net --allow-read --allow-write index.ts
+        run: cd badges && deno run --allow-net --allow-read --allow-write index.ts
 
       - name: Commit updated svg
         run: |
