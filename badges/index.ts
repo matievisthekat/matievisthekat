@@ -22,8 +22,5 @@ for (const entry of Object.entries(badges)) {
 renderFileToString(join(__dirname, 'base.ejs'), {badges}).then(async (html) => {
   const filePath = join(__dirname, '../badges.svg');
   await ensureFile(filePath);
-
-  const file = await Deno.open(filePath, {write: true});
-  await file.write(new TextEncoder().encode(html));
-  file.close();
+  await Deno.writeTextFile(filePath, html);
 });
