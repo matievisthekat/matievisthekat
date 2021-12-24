@@ -1,0 +1,26 @@
+name: Badges
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - badges/*
+jobs:
+  regen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-deno@v2
+
+      - name: Run badges/index.ts
+        runs: cd badges && deno run --allow-net --allow-read --allow-write index.ts
+
+      - name: Commit updated svg
+        run: |
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'Github Actions'
+          git pull --commit
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m '[badges] build css'
+      
+      - name: Push origin master
+        run: git push origin master
