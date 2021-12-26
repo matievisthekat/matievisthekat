@@ -18,7 +18,8 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->26 december 2021<!--common.timestamp:end-->*
+*last updated: <!--common.timestamp:start-->26 december 2021<!--common.timestamp:end-->
+[see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Westworld](https://imdb.com/title/tt0475784/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->10<!--recent.rating:end-->/10**
 
