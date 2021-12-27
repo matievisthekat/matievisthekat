@@ -1,10 +1,5 @@
 <div align="center">
-  
-  [<img src="images/linkedin.png" width="32" />](https://www.linkedin.com/in/matievisthekat "my linkedin")
-  [<img src="images/imdb.png" width="32" />](https://www.imdb.com/user/ur122151934 "my imdb")
-  [<img src="images/reddit.png" width="32" />](https://reddit.com/u/MatievisTheKat "my reddit")
-  [<img src="images/youtube.png" width="32" />](https://www.youtube.com/channel/UCMgFIRIW3WaAotLMqoFFTTw "my youtube channel")
-  
+
   # hello there
   
   my name is Matthew Stead, i'm 16 years old and i've been coding since i was 10. [more info](#timeline)
