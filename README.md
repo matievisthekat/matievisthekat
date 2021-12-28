@@ -16,13 +16,13 @@
 *last updated: <!--common.timestamp:start-->28 december 2021<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
-i recently watched <!--recent.link:start text="recent.title"-->[Hanna](https://imdb.com/title/tt6932244/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->7<!--recent.rating:end-->/10**
+i recently watched <!--recent.link:start text="recent.title"-->[Don't Look Up](https://imdb.com/title/tt11286314/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Hell or High Water](https://imdb.com/title/tt2582782/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Action, Crime, Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.6<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Saint Maud](https://imdb.com/title/tt7557108/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, Horror, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A pious nurse becomes dangerously obsessed with saving the soul of her dying patient.<!--favourite.desc:end-->*
   
 </div>
 
