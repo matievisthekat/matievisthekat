@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[Don't Look Up](https://imdb.com/title/tt11286314/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[REC](https://imdb.com/title/tt1038988/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.4<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Parasite](https://imdb.com/title/tt6751668/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Comedy, Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.6<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.<!--favourite.desc:end-->*
   
 </div>
 
