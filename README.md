@@ -13,7 +13,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->30 december 2021<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->31 december 2021<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Don't Look Up](https://imdb.com/title/tt11286314/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
