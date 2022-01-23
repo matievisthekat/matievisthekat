@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[The Mandalorian](https://imdb.com/title/tt8111088/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->5<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Parasite](https://imdb.com/title/tt6751668/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Comedy, Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.6<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Saint Maud](https://imdb.com/title/tt7557108/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, Horror, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A pious nurse becomes dangerously obsessed with saving the soul of her dying patient.<!--favourite.desc:end-->*
   
 </div>
 
