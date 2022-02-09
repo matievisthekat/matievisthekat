@@ -13,7 +13,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->8 february 2022<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->9 february 2022<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Zodiac](https://imdb.com/title/tt0443706/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->7<!--recent.rating:end-->/10**
