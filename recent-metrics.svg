@@ -186,17 +186,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 45.77122866532386%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 45.785736992688356%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">57%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dart</span>
-                            <div class="bar" style="width: 34.13124138662143%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 34.116774398643635%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">43%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Kotlin</span>
-                            <div class="bar" style="width: 0.09752994805470158%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.0974886086680089%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -279,7 +279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>romkatv/powerlevel10k</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Zsh theme</div>
