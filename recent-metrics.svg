@@ -186,17 +186,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 44.88951956213258%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">56%</span>
+                            <div class="bar" style="width: 44.268079364286066%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">55%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dart</span>
-                            <div class="bar" style="width: 35.017230893979324%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">44%</span>
+                            <div class="bar" style="width: 35.63996201709231%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">45%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Kotlin</span>
-                            <div class="bar" style="width: 0.09324954388810056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.09195861862162028%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
