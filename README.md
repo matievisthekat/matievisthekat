@@ -16,13 +16,13 @@
 *last updated: <!--common.timestamp:start-->8 march 2022<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
-i recently watched <!--recent.link:start text="recent.title"-->[Good Time](https://imdb.com/title/tt4846232/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
+i recently watched <!--recent.link:start text="recent.title"-->[Reservoir Dogs](https://imdb.com/title/tt0105236/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->10<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[REC](https://imdb.com/title/tt1038988/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.4<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Fight Club](https://imdb.com/title/tt0137523/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.8<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.<!--favourite.desc:end-->*
   
 </div>
 
