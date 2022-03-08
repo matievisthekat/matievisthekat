@@ -18,14 +18,6 @@ jobs:
           
           plugin_traffic: yes
           
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_mode: top
-          plugin_music_limit: 5
-          plugin_music_top_type: artists
-          plugin_music_time_range: medium
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
@@ -39,7 +31,3 @@ jobs:
           plugin_followup_sections: repositories, user
           
           plugin_lines: yes
-          
-          plugin_poopmap: yes
-          plugin_poopmap_token: "15d71a6dc6682c75553ab48c2db4edc4"
-          plugin_poopmap_days: 180
