@@ -28,3 +28,6 @@ jobs:
           commits_authoring: matievisthekat@gmail.com
           
           plugin_lines: yes
+          
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
