@@ -27,7 +27,4 @@ jobs:
           plugin_languages_aliases: RenderScript:Rust # temp solution until Rust as RenderScript bug is fixed
           commits_authoring: matievisthekat@gmail.com
           
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          
           plugin_lines: yes
