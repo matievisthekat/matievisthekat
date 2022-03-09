@@ -1,6 +1,9 @@
 name: Overall Metrics
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/overall-metrics.yml
   schedule: 
     - cron: "0 0 * * *"
 jobs:
