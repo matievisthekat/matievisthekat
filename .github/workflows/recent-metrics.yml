@@ -1,6 +1,9 @@
 name: Recent Metrics
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - recent-metrics.yml
   schedule: 
     - cron: "0 * * * *"
 jobs:
