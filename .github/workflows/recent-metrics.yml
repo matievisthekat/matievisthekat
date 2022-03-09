@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - recent-metrics.yml
+      - .github/workflows/recent-metrics.yml
   schedule: 
     - cron: "0 * * * *"
 jobs:
@@ -35,4 +35,4 @@ jobs:
           plugin_starlists_languages: no
           plugin_starlists_limit: 3
           plugin_starlists_limit_repositories: 3
-          plugin_starlists_ignored: Previous Things
+          plugin_starlists_ignored: Previous
