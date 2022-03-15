@@ -34,6 +34,6 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
           plugin_starlists_languages: no
           plugin_starlists_limit: 3
-          plugin_starlists_limit_repositories: 3
+          plugin_starlists_limit_repositories: 2
           plugin_starlists_ignored: previous
-          plugin_starlists_only: cool, future, current 
+          plugin_starlists_only: cool, current 
