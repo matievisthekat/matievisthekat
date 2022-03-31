@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[Jackass Number Two](https://imdb.com/title/tt0493430/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->10<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Westworld](https://imdb.com/title/tt0475784/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, Mystery, Sci-Fi<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.6<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[REC](https://imdb.com/title/tt1038988/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.4<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.<!--favourite.desc:end-->*
   
 </div>
 
