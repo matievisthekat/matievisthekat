@@ -45,6 +45,10 @@ jobs:
           config_timezone: Africa/Johannesburg
           config_padding: 0, 0
           filename: overall-languages.svg
+          extra_css: |
+            svg {
+              background-color: white
+            }
           
           plugin_traffic: yes
           
