@@ -30,10 +30,5 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, projects, editors, os
           
-          plugin_starlists: yes
-          plugin_starlists_shuffle_repositories: yes
-          plugin_starlists_languages: no
-          plugin_starlists_limit: 3
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_ignored: previous
-          plugin_starlists_only: cool, current 
+          plugin_activity: yes
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
