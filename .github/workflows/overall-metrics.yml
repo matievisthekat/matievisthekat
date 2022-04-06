@@ -53,7 +53,7 @@ jobs:
           plugin_traffic: yes
           
           plugin_languages: yes
-          plugin_languages_limit: 5
+          plugin_languages_limit: 6
           plugin_languages_details: percentage, lines, bytes_size
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
