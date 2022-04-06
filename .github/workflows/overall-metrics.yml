@@ -16,7 +16,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Johannesburg
-          config_padding: 10, 10
+          config_padding: 10
           filename: overall-metrics.svg
           
           plugin_traffic: yes
@@ -43,18 +43,16 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: no
           config_timezone: Africa/Johannesburg
-          config_padding: 0, 0
+          config_padding: 10
           filename: overall-languages.svg
           extras_css: |
             svg, foreignObject, .items-wrapper {
               background-color: white
             }
           
-          plugin_traffic: yes
-          
           plugin_languages: yes
           plugin_languages_limit: 6
-          plugin_languages_details: percentage, lines, byte_size
+          plugin_languages_details: percentage, lines, bytes-size
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_categories: programming
