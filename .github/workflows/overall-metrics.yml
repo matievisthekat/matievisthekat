@@ -45,7 +45,7 @@ jobs:
           config_timezone: Africa/Johannesburg
           config_padding: 0, 0
           filename: overall-languages.svg
-          extra_css: |
+          extras_css: |
             svg, foreignObject, .items-wrapper {
               background-color: white
             }
