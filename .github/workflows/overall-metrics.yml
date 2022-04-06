@@ -16,7 +16,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Johannesburg
-          config_padding: 0, 0
+          config_padding: 10, 10
           filename: overall-metrics.svg
           
           plugin_traffic: yes
