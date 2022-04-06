@@ -47,7 +47,11 @@ jobs:
           filename: overall-languages.svg
           extras_css: |
             svg, foreignObject, .items-wrapper {
-              background-color: white
+              background-color: white;
+            }
+            
+            div.row.footnote > .field {
+              margin-right: 2%;
             }
           
           plugin_languages: yes
