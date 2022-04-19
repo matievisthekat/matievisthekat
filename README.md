@@ -13,7 +13,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->18 april 2022<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->19 april 2022<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[The White Lotus](https://imdb.com/title/tt13406094/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->7<!--recent.rating:end-->/10**
