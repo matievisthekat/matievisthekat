@@ -26,4 +26,10 @@ the movie <!--favourite.link:start text="favourite.title"-->[Fight Club](https:/
   
 </div>
 
+---
+
+<div align="center">
+     <img src="https://skillicons.dev/icons?perline=10&i=cloudflare,netlify,heroku,figma,electron,sass,emotion,css,html,dart,flutter,deno,express,svelte,react,nextjs,ts,js,nodejs,ruby,rails,rust,linux,git,vim,vscode,nginx,mongodb,mysql,postgres" alt="skill icons" />
+</div>
+
 ![](https://hit.yhype.me/github/profile?user_id=45036977)
