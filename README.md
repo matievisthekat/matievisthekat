@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->30 april 2022<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->1 may 2022<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Taxi Driver](https://imdb.com/title/tt0075314/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->6<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Swiss Army Man](https://imdb.com/title/tt4034354/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Comedy, Drama, Fantasy<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.9<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Hell or High Water](https://imdb.com/title/tt2582782/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Action, Crime, Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.6<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.<!--favourite.desc:end-->*
   
 </div>
 
