@@ -13,7 +13,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->20 may 2022<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->21 may 2022<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Taxi Driver](https://imdb.com/title/tt0075314/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->6<!--recent.rating:end-->/10**
