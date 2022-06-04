@@ -187,18 +187,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 33.14326957776976%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">41%</span>
+                                <div class="bar" style="width: 36.341627437794216%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">45%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Perl</span>
-                                <div class="bar" style="width: 11.808011548177554%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 11.002017484868865%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 2.136412847347528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 1.9905850706119703%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
