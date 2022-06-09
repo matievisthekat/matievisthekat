@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->8 june 2022<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->9 june 2022<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Little Miss Sunshine](https://imdb.com/title/tt0449059/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Room](https://imdb.com/title/tt3170832/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.1<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Reservoir Dogs](https://imdb.com/title/tt0105236/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.3<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.<!--favourite.desc:end-->*
   
 </div>
 
