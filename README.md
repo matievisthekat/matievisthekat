@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[The Mist](https://imdb.com/title/tt0884328/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->5<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Swiss Army Man](https://imdb.com/title/tt4034354/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Comedy, Drama, Fantasy<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.9<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[The Autopsy of Jane Doe](https://imdb.com/title/tt3289956/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.8<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A father and son, both coroners, are pulled into a complex mystery while attempting to identify the body of a young woman, who was apparently harboring dark secrets.<!--favourite.desc:end-->*
   
 </div>
 
