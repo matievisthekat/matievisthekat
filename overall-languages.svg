@@ -28,12 +28,12 @@ div.row.footnote &gt; .field {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.704619388419" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="265.704619388419" y="0" width="68.02732595966167" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="333.73194534808067" y="0" width="49.469335342259356" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="383.20128069034" y="0" width="27.17501626545218" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="410.3762969557922" y="0" width="25.610074307434168" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="435.9863712632264" y="0" width="24.01362873677362" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.133389776078" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="239.133389776078" y="0" width="77.33053065911501" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="316.463920435193" y="0" width="56.234607187691594" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="372.69852762288457" y="0" width="30.891386642532524" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="403.5899142654171" y="0" width="29.112428108486846" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="432.70234237390395" y="0" width="27.29765762609601" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -45,9 +45,9 @@ div.row.footnote &gt; .field {
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.6k lines</div>
-                                <div>337 kB</div>
-                                <div>57.76%</div>
+                                <div>8.16k lines</div>
+                                <div>267 kB</div>
+                                <div>51.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@ div.row.footnote &gt; .field {
                             <small>
                                 <div>2.96k lines</div>
                                 <div>86.3 kB</div>
-                                <div>14.79%</div>
+                                <div>16.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -73,7 +73,7 @@ div.row.footnote &gt; .field {
                             <small>
                                 <div>1.83k lines</div>
                                 <div>62.8 kB</div>
-                                <div>10.75%</div>
+                                <div>12.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -86,7 +86,7 @@ div.row.footnote &gt; .field {
                             <small>
                                 <div>1.33k lines</div>
                                 <div>34.5 kB</div>
-                                <div>5.91%</div>
+                                <div>6.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -99,7 +99,7 @@ div.row.footnote &gt; .field {
                             <small>
                                 <div>1.40k lines</div>
                                 <div>32.5 kB</div>
-                                <div>5.57%</div>
+                                <div>6.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -112,7 +112,7 @@ div.row.footnote &gt; .field {
                             <small>
                                 <div>1.43k lines</div>
                                 <div>30.4 kB</div>
-                                <div>5.22%</div>
+                                <div>5.93%</div>
                             </small>
                         </div>
                     </section>
