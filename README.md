@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[The Intouchables](https://imdb.com/title/tt1675434/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->7<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Saint Maud](https://imdb.com/title/tt7557108/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, Horror, Mystery<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.7<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[The Shawshank Redemption](https://imdb.com/title/tt0111161/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.3<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A pious nurse becomes dangerously obsessed with saving the soul of her dying patient.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.<!--favourite.desc:end-->*
   
 </div>
 
