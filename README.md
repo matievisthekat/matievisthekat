@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->16 september 2022<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->17 september 2022<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[The End of the F***ing World](https://imdb.com/title/tt6257970/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Chernobyl](https://imdb.com/title/tt7366338/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, History, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.4<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Parasite](https://imdb.com/title/tt6751668/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Comedy, Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.5<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.<!--favourite.desc:end-->*
   
 </div>
 
