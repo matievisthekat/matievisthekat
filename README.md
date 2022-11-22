@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->21 november 2022<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->22 november 2022<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Shameless](https://imdb.com/title/tt1586680/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->7<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Chernobyl](https://imdb.com/title/tt7366338/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, History, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.4<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[The Autopsy of Jane Doe](https://imdb.com/title/tt3289956/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Horror, Mystery, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.8<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A father and son, both coroners, are pulled into a complex mystery while attempting to identify the body of a young woman, who was apparently harboring dark secrets.<!--favourite.desc:end-->*
   
 </div>
 
