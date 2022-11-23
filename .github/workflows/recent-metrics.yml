@@ -22,7 +22,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 1000
           plugin_habits_days: 30
-          plugin_habits_facts: no
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
           
           plugin_wakatime: yes
@@ -30,5 +30,9 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, projects, editors, os
           
-          plugin_activity: yes
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          
+          plugin_code: yes
+          plugin_code_days: 14
+          plugin_code_load: 600
