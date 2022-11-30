@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1034" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1178" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field,.chart-bars.horizontal .entry .name,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:pre}.added{color:#3fb950}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown ul{padding-left:24px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field,.chart-bars.horizontal .entry .name,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:pre}.added{color:#3fb950}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -25,19 +25,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">matievisthekat/game-monitor</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">matievisthekat/Cubeathon</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">matievisthekat/poop-stats</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">matievisthekat/ProjectBoost</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">matievisthekat/ArgonAssault</span>
                         </div>
                     </section>
                     <section>
@@ -54,27 +54,27 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">  +381k</span> <span class="deleted">  -191k</span></div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added">  +131k</span> <span class="deleted"> -2.94k</span></div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats"><span class="added">  +104k</span> <span class="deleted"> -1.26k</span></div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added"> +56.5k</span> <span class="deleted"> -2.06k</span></div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added"> +35.9k</span> <span class="deleted">     -1</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -115,29 +115,53 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,41.17129280017683)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">200k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,91.08564640008841)">
+                            <g class="tick" opacity="1" transform="translate(0,11.991697768299186)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">100k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,37.79335821463934)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">80k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,63.59501866097952)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">60k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,89.39667910731967)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,115.19833955365985)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,190.91435359991158)">
+                            <g class="tick" opacity="1" transform="translate(0,166.80166044634018)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,192.60332089268033)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,218.40498133902048)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−60k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,244.20664178536066)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−80k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,270.0083022317008)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−100k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,240.82870719982316)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
-                            </g>
                         </g>
-                        <path d="M39,140.5L43.1875,140.5L47.375,140.5L59.9375,140.5L68.3125,140.5L122.75,140.5L126.9375,140.5L131.125,140.5L135.3125,140.5L139.5,140.5L143.6875,140.5L156.25,140.5L160.4375,140.5L181.375,140.5L202.3125,140.5L210.6875,140.5L214.875,140.5L219.0625,140.5L223.25,140.5L227.4375,140.5L235.8125,140.5L240,140.5L248.37500000000003,140.5L252.5625,140.5L256.75,140.5L260.9375,140.5L265.125,140.5L277.6875,140.5L286.0625,140.5L298.625,140.5L302.8125,140.5L307,140.5L319.5625,140.5L323.75,140.5L357.25,140.5L382.375,140.5L386.5625,140.5L403.3125,140.5L407.5,140.5L411.6875,140.5L415.875,140.5L420.0625,140.5L424.25,140.5L428.4375,140.5L432.625,140.5L436.8125,140.5L441,140.5L441,130.49366953382574L436.8125,140.45956937358406L432.625,140.43111819203213L428.4375,138.8533254747389L424.25,140.40865673291214L420.0625,140.43011990496015L415.875,140.29485200670436L411.6875,140.45956937358406L407.5,140.07323227672077L403.3125,139.74629326064135L386.5625,140.46805481369606L382.375,139.96142412465696L357.25,139.62799624260956L323.75,140.497005138784L319.5625,140.41165159412813L307,140.36323467113624L302.8125,139.65295341940953L298.625,140.491015416352L286.0625,140.499500856464L277.6875,140.499500856464L265.125,140.49650599524801L260.9375,140.08820658280075L256.75,140.46955224430405L252.5625,140.40166872340816L248.37500000000003,140.49850256939197L240,139.62899452968153L235.8125,138.42805518206765L227.4375,131.24937284732837L223.25,118.34751072882325L219.0625,137.06738990293408L214.875,139.43432855064188L210.6875,139.99137273681688L202.3125,88.07395612694086L181.375,140.28536827952038L160.4375,129.34663768809975L156.25,140.38020555136018L143.6875,140.18553957232055L139.5,140.01433333947287L135.3125,140.47454367966404L131.125,135.88741458383217L126.9375,5L122.75,85.58522645644926L68.3125,139.0215368463706L59.9375,139.7143480743374L47.375,140.4450942110401L43.1875,140.46306337833605L39,131.51192234726392Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L43.1875,140.5L47.375,140.5L59.9375,140.5L68.3125,140.5L122.75,140.5L126.9375,140.5L131.125,140.5L135.3125,140.5L139.5,140.5L143.6875,140.5L156.25,140.5L160.4375,140.5L181.375,140.5L202.3125,140.5L210.6875,140.5L214.875,140.5L219.0625,140.5L223.25,140.5L227.4375,140.5L235.8125,140.5L240,140.5L248.37500000000003,140.5L252.5625,140.5L256.75,140.5L260.9375,140.5L265.125,140.5L277.6875,140.5L286.0625,140.5L298.625,140.5L302.8125,140.5L307,140.5L319.5625,140.5L323.75,140.5L357.25,140.5L382.375,140.5L386.5625,140.5L403.3125,140.5L407.5,140.5L411.6875,140.5L415.875,140.5L420.0625,140.5L424.25,140.5L428.4375,140.5L432.625,140.5L436.8125,140.5L441,140.5L441,140.51197944486398L436.8125,140.504492291824L432.625,140.53643747812797L428.4375,140.69965741439967L424.25,140.56938095150386L420.0625,140.52395888972796L415.875,144.66984509973662L411.6875,140.500499143536L407.5,140.5728749562559L403.3125,141.10945425745493L386.5625,140.51197944486398L382.375,140.86687049895934L357.25,141.3655148914225L323.75,140.50349400475199L319.5625,140.52146317204796L307,140.60332271195182L302.8125,140.55141178420791L298.625,140.506488865968L286.0625,140.500499143536L277.6875,140.50149743060803L265.125,140.500499143536L260.9375,140.507986296576L256.75,140.51996574143996L252.5625,140.51647173668795L248.37500000000003,140.500499143536L240,142.06381669828522L235.8125,143.56424216749858L227.4375,149.1252003020647L223.25,161.0976571565395L219.0625,143.2652551894351L214.875,140.8474039010554L210.6875,140.74757519385557L202.3125,141.53522369366215L181.375,140.7161291510876L160.4375,151.6249111303483L156.25,140.52246145911997L143.6875,140.69766084025565L139.5,140.7490726244636L135.3125,140.50499143536L131.125,175.4630081225941L126.9375,147.69715064557127L122.75,194.46190853332843L68.3125,141.9015950490855L59.9375,141.2941373657746L47.375,140.54891606652794L43.1875,140.53044775569595L39,153.2670933637854Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L43.1875,140.5L47.375,140.5L59.9375,140.5L68.3125,140.5L131.125,140.5L139.5,140.5L143.6875,140.5L156.25,140.5L160.4375,140.5L181.375,140.5L202.3125,140.5L210.6875,140.5L214.875,140.5L219.0625,140.5L223.25,140.5L227.4375,140.5L235.8125,140.5L240,140.5L244.18749999999997,140.5L248.37500000000003,140.5L252.5625,140.5L256.75,140.5L260.9375,140.5L265.125,140.5L277.6875,140.5L286.0625,140.5L298.625,140.5L307,140.5L319.5625,140.5L323.75,140.5L357.25,140.5L382.375,140.5L386.5625,140.5L403.3125,140.5L407.5,140.5L411.6875,140.5L415.875,140.5L420.0625,140.5L424.25,140.5L428.4375,140.5L432.625,140.5L436.8125,140.5L441,140.5L441,114.63770565161094L436.8125,140.3955032751923L432.625,140.4922595018661L428.4375,136.2440161093762L424.25,140.263914806916L420.0625,140.31938837687562L415.875,139.96977587782771L411.6875,140.3955032751923L407.5,139.39697901591896L403.3125,133.24199291644453L386.5625,140.4174346865717L382.375,139.10800041891994L357.25,138.2462249600122L323.75,140.4922595018661L319.5625,140.27165530504988L307,140.45097684515198L298.625,140.4767785055983L286.0625,140.49870991697767L277.6875,140.49870991697767L265.125,140.48967933582145L260.9375,139.43568150658845L256.75,140.42130493563866L252.5625,140.24585364460356L248.37500000000003,139.7478815979892L244.18749999999997,140.25359414273746L240,136.66845342371852L235.8125,135.1448653743621L227.4375,116.59089134739887L223.25,83.24482538654885L219.0625,131.6616412141062L214.875,137.7456727473532L210.6875,139.18540540025896L202.3125,5L181.375,139.95042463249294L160.4375,111.67309486632647L156.25,140.1903800746439L143.6875,139.68724769594027L139.5,139.24474921928555L131.125,128.69445026277705L68.3125,136.678774087897L59.9375,138.46940932287305L47.375,140.35809086754514L43.1875,140.40453385634854L39,117.26947501713764Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L43.1875,140.5L47.375,140.5L59.9375,140.5L68.3125,140.5L131.125,140.5L139.5,140.5L143.6875,140.5L156.25,140.5L160.4375,140.5L181.375,140.5L202.3125,140.5L210.6875,140.5L214.875,140.5L219.0625,140.5L223.25,140.5L227.4375,140.5L235.8125,140.5L240,140.5L244.18749999999997,140.5L248.37500000000003,140.5L252.5625,140.5L256.75,140.5L260.9375,140.5L265.125,140.5L277.6875,140.5L286.0625,140.5L298.625,140.5L307,140.5L319.5625,140.5L323.75,140.5L357.25,140.5L382.375,140.5L386.5625,140.5L403.3125,140.5L407.5,140.5L411.6875,140.5L415.875,140.5L420.0625,140.5L424.25,140.5L428.4375,140.5L432.625,140.5L436.8125,140.5L441,140.5L441,140.53096199253562L436.8125,140.51161074720085L432.625,140.5077404981339L428.4375,141.0160332089268L424.25,140.67932154010205L420.0625,140.56192398507122L415.875,151.27735356843627L411.6875,140.5012900830223L407.5,140.68835212125828L403.3125,142.8131188590144L386.5625,140.53096199253562L382.375,141.448211021403L357.25,142.73700396069768L323.75,140.5090305811562L319.5625,140.55547356995964L307,140.5077404981339L298.625,140.51677107929012L286.0625,140.5012900830223L277.6875,140.50387024906695L265.125,140.50258016604465L260.9375,140.5206413283571L256.75,140.5516033208927L252.5625,140.54257273973644L248.37500000000003,141.106339020489L244.18749999999997,140.75414635539644L240,144.56118135425393L235.8125,148.41981967400412L227.4375,162.79263462563787L223.25,193.73656599893368L219.0625,147.61093761901137L214.875,141.39789778353264L210.6875,141.13988117906922L202.3125,143.17563218828548L181.375,141.05731586564093L160.4375,169.25337040140147L156.25,140.55805373600427L143.6875,141.01087287683754L139.5,141.14375142813617L131.125,142.25580299337344L68.3125,144.12255312666616L59.9375,142.55252208850638L47.375,140.6264281361871L43.1875,140.57869506436134L39,173.49774354482443Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -430,7 +454,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">matievisthekat/devhumour-bot</span>
+                            <span class="blue space">matievisthekat/matievisthekat</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -438,7 +462,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 17 Nov 2022, 09:13:41
+                            On 23 Nov 2022, 10:19:35
                         </div>
                     </section>
                 </div>
@@ -448,22 +472,22 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            add log file
+                            Update FUNDING.yml
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e46e0e6f</span>
-                            <span class="code">.gitignore</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">78b97e80</span>
+                            <span class="code">.github/FUNDING.yml</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,2 +1,3 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">praw.ini<br /></span><span class="token prefix unchanged">·</span><span class="token line">*.sqlite<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">log.txt</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,9 +1,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># These are supported funding model platforms<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">github: matievisthekat # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">patreon: # Replace with a single Patreon username<br /></span><span class="token prefix unchanged">·</span><span class="token line">open_collective: # Replace with a single Open Collective username<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">ko_fi: matievisthekat<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">ko_fi:<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel<br /></span><span class="token prefix unchanged">·</span><span class="token line">community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry<br /></span><span class="token prefix unchanged">·</span><span class="token line">liberapay: # Replace with a single Liberapay username</span></span></code>
                         </div>
                     </section>
                 </div>
