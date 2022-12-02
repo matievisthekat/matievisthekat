@@ -31,7 +31,7 @@ jobs:
           plugin_wakatime_sections: time, projects, editors, os
           
           plugin_lines: yes
-          plugin_lines_sections: repositories, history
+          plugin_lines_sections: repositories
           
           plugin_code: yes
           plugin_code_days: 14
