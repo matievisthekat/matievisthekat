@@ -22,18 +22,18 @@ div.row.footnote &gt; .field {
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 70.2mb of code in 9195 edited files across 3077 commits</small>
+                <small>estimation from 70.2mb of code in 9193 edited files across 3075 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.84208594922163" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="204.84208594922163" y="0" width="159.07498867682466" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="363.91707462604626" y="0" width="42.22686947972628" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="406.14394410577256" y="0" width="25.236833151656867" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="431.3807772574294" y="0" width="18.487671644529588" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="449.86844890195897" y="0" width="10.131551098041001" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.76040656528068" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="204.76040656528068" y="0" width="159.12591066027116" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="363.8863172255518" y="0" width="42.24038685267428" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="406.12670407822606" y="0" width="25.24491179186725" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="431.37161587009336" y="0" width="18.493589789910438" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="449.8652056600038" y="0" width="10.134794339996214" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,7 +47,7 @@ div.row.footnote &gt; .field {
                             <small>
                                 <div>18.2k lines</div>
                                 <div>616 kB</div>
-                                <div>44.53%</div>
+                                <div>44.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@ div.row.footnote &gt; .field {
                             <small>
                                 <div>17.2k lines</div>
                                 <div>478 kB</div>
-                                <div>34.58%</div>
+                                <div>34.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
