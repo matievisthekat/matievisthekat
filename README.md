@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[The Green Mile](https://imdb.com/title/tt0120689/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Chernobyl](https://imdb.com/title/tt7366338/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, History, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.4<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Reservoir Dogs](https://imdb.com/title/tt0105236/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.3<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.<!--favourite.desc:end-->*
   
 </div>
 
