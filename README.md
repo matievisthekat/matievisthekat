@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[The Pianist](https://imdb.com/title/tt0253474/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Fight Club](https://imdb.com/title/tt0137523/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.8<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Chernobyl](https://imdb.com/title/tt7366338/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, History, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.4<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.<!--favourite.desc:end-->*
   
 </div>
 
