@@ -13,10 +13,10 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->15 february 2023<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->16 february 2023<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
-i recently watched <!--recent.link:start text="recent.title"-->[Puss in Boots](https://imdb.com/title/tt0448694/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->9<!--recent.rating:end-->/10**
+i recently watched <!--recent.link:start text="recent.title"-->[Chicken Run](https://imdb.com/title/tt0120630/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
 the movie <!--favourite.link:start text="favourite.title"-->[Chernobyl](https://imdb.com/title/tt7366338/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, History, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.4<!--favourite.avgRating:end-->/10**. here's a little description:
 
