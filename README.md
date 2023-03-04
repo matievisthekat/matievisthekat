@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[The Unbearable Weight of Massive Talent](https://imdb.com/title/tt11291274/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Schindler's List](https://imdb.com/title/tt0108052/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Biography, Drama, History<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[The Shawshank Redemption](https://imdb.com/title/tt0111161/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.3<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->In German-occupied Poland during World War II, industrialist<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.<!--favourite.desc:end-->*
   
 </div>
 
