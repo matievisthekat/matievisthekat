@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[Last Shift](https://imdb.com/title/tt2965466/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->4<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Hell or High Water](https://imdb.com/title/tt2582782/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.6<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[The Grand Budapest Hotel](https://imdb.com/title/tt2278388/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Adventure, Comedy, Crime<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.1<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.<!--favourite.desc:end-->*
   
 </div>
 
