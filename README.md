@@ -13,7 +13,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->27 april 2023<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->28 april 2023<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[The Departed](https://imdb.com/title/tt0407887/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->10<!--recent.rating:end-->/10**
