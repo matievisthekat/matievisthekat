@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">matievisthekat/game-monitor</span>
+                            <span class="diff-handle">matievisthekat/matievisthekat.dev</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -60,8 +60,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +381k</span>
-                                <span class="deleted">  -191k</span>
+                                <span class="added">  +446k</span>
+                                <span class="deleted">  -437k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -398,7 +398,7 @@ This reverts commit 3103715b59d31ea93a02d34b8b3f4215193f99ad.
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">fb80113a</span>
-                            <span class="code">app2/src/vite-env.d.ts</span>
+                            <span class="code">app2/.nvmrc</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--1</span>
@@ -409,7 +409,7 @@ This reverts commit 3103715b59d31ea93a02d34b8b3f4215193f99ad.
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">/// &lt;reference types="vite/client" /&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">18.12.0</span></span></code>
                         </div>
                     </section>
                 </div>
