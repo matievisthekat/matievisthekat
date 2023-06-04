@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[All Dogs Go to Heaven](https://imdb.com/title/tt0096787/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Hell or High Water](https://imdb.com/title/tt2582782/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.6<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Reservoir Dogs](https://imdb.com/title/tt0105236/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.3<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Toby is a divorced father who's trying to make a better life. His brother is an ex-con with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their family ranch.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.<!--favourite.desc:end-->*
   
 </div>
 
