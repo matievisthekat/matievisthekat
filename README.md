@@ -18,11 +18,11 @@
 
 i recently watched <!--recent.link:start text="recent.title"-->[All Dogs Go to Heaven](https://imdb.com/title/tt0096787/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->8<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[The Boondock Saints](https://imdb.com/title/tt0144117/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Action, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.7<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[The Shawshank Redemption](https://imdb.com/title/tt0111161/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.3<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Two Irish Catholic brothers become vigilantes and wipe out Boston's criminal underworld in the name of God.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.<!--favourite.desc:end-->*
   
 </div>
 
