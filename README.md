@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->20 june 2023<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->21 june 2023<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Saw II](https://imdb.com/title/tt0432348/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->7<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[The Boondock Saints](https://imdb.com/title/tt0144117/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Action, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.7<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Swiss Army Man](https://imdb.com/title/tt4034354/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Comedy, Drama, Fantasy<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.9<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Two Irish Catholic brothers become vigilantes and wipe out Boston's criminal underworld in the name of God.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.<!--favourite.desc:end-->*
   
 </div>
 
