@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->10 february 2024<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->11 february 2024<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Vivarium](https://imdb.com/title/tt8368406/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->6<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Schindler's List](https://imdb.com/title/tt0108052/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Biography, Drama, History<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Hell or High Water](https://imdb.com/title/tt2582782/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.6<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->In German-occupied Poland during World War II, industrialist<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->Toby is a divorced father who's trying to make a better life. His brother is an ex-con with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their family ranch.<!--favourite.desc:end-->*
   
 </div>
 
