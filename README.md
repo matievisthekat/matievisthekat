@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->21 march 2024<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->22 march 2024<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Vivarium](https://imdb.com/title/tt8368406/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->6<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Parasite](https://imdb.com/title/tt6751668/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.5<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Hell or High Water](https://imdb.com/title/tt2582782/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Drama, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->7.6<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->Toby is a divorced father who's trying to make a better life. His brother is an ex-con with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their family ranch.<!--favourite.desc:end-->*
   
 </div>
 
