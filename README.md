@@ -13,7 +13,7 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->28 march 2024<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->29 march 2024<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Vivarium](https://imdb.com/title/tt8368406/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->6<!--recent.rating:end-->/10**
