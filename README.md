@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->11 april 2024<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->12 april 2024<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Vivarium](https://imdb.com/title/tt8368406/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->6<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[Reservoir Dogs](https://imdb.com/title/tt0105236/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Crime, Thriller<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.3<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[The Grand Budapest Hotel](https://imdb.com/title/tt2278388/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Adventure, Comedy, Crime<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->8.1<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.<!--favourite.desc:end-->*
   
 </div>
 
