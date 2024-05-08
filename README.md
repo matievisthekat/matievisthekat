@@ -13,16 +13,16 @@
 ---
 
 ## movies
-*last updated: <!--common.timestamp:start-->6 may 2024<!--common.timestamp:end-->
+*last updated: <!--common.timestamp:start-->8 may 2024<!--common.timestamp:end-->
 [see the code that makes this work](https://github.com/matievisthekat/matievisthekat/tree/master/movies)*
 
 i recently watched <!--recent.link:start text="recent.title"-->[Vivarium](https://imdb.com/title/tt8368406/ 'imdb page')<!--recent.link:end--> and i give it a rating of **<!--recent.rating:start-->6<!--recent.rating:end-->/10**
 
-the movie <!--favourite.link:start text="favourite.title"-->[The Shawshank Redemption](https://imdb.com/title/tt0111161/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Drama<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->9.3<!--favourite.avgRating:end-->/10**. here's a little description:
+the movie <!--favourite.link:start text="favourite.title"-->[Swiss Army Man](https://imdb.com/title/tt4034354/?ref_=ttls_li_i 'imdb page')<!--favourite.link:end--> is one of my favourites. it is a **<!--favourite.genre:start-->Comedy, Drama, Fantasy<!--favourite.genre:end-->** film with an average rating of **<!--favourite.avgRating:start-->6.9<!--favourite.avgRating:end-->/10**. here's a little description:
 
 <div align="center">
 
-  *<!--favourite.desc:start-->Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.<!--favourite.desc:end-->*
+  *<!--favourite.desc:start-->A hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.<!--favourite.desc:end-->*
   
 </div>
 
