@@ -35,10 +35,6 @@ jobs:
           
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: starred
   language-metrics:
     runs-on: ubuntu-latest
     steps:
