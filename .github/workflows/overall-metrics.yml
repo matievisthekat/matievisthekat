@@ -17,7 +17,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Africa/Johannesburg
-          config_padding: 10
+          config_padding: 5
           filename: overall-metrics.svg
           
           plugin_traffic: yes
@@ -48,7 +48,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: no
           config_timezone: Africa/Johannesburg
-          config_padding: 20, 10
+          config_padding: 10, 10
           filename: overall-languages.svg
           extras_css: |
             svg, foreignObject, .items-wrapper {
